@@ -1,0 +1,805 @@
+lead_id,booking_ts,project_name,city,unit_type,payment_plan,loan_required_flag,base_price,discount,final_price,booking_status
+L000048,2025-06-27 01:21:33,UrbanNest,Pune,2BHK,Construction Linked,True,11966647,228481,11738166,Confirmed
+L000066,2024-08-22 14:25:04,GreenVista,Bengaluru,3BHK,Construction Linked,True,11289631,109368,11180263,Confirmed
+L000124,2024-07-09 13:26:01,LakeFront,Hyderabad,2BHK,Down Payment,False,11090526,711114,10379412,Confirmed
+L000137,2024-01-28 12:14:40,SkyHeights,Bengaluru,3BHK,Flexi,True,5368020,285280,5082740,Confirmed
+L000147,2025-03-29 21:09:30,PalmResidency,Pune,Villa,Construction Linked,False,5027236,593949,4433287,Confirmed
+L000164,2025-02-02 01:49:52,LakeFront,Hyderabad,Villa,Flexi,False,7740209,561450,7178759,Confirmed
+L000224,2024-07-20 17:15:02,GreenVista,Bengaluru,3BHK,Construction Linked,False,7757617,704836,7052781,Confirmed
+L000259,2024-05-11 06:26:13,PalmResidency,Pune,2BHK,Construction Linked,True,6944035,850584,6093451,Confirmed
+L000265,2024-09-07 04:34:06,UrbanNest,Pune,3BHK,Construction Linked,True,6665278,318534,6346744,Confirmed
+L000270,2025-07-12 20:33:24,UrbanNest,Pune,Villa,Down Payment,False,11471990,180741,11291249,Confirmed
+L000280,2024-05-11 03:59:39,GreenVista,Bengaluru,Villa,Construction Linked,False,10944573,400573,10544000,Confirmed
+L000283,2024-07-31 09:04:07,UrbanNest,Pune,3BHK,Flexi,False,5177941,381509,4796432,Confirmed
+L000287,2024-09-26 06:10:30,PalmResidency,Pune,Villa,Flexi,False,12652864,690178,11962686,Confirmed
+L000289,2025-01-01 08:12:19,SkyHeights,Bengaluru,Villa,Construction Linked,True,11628011,395333,11232678,Confirmed
+L000300,2024-04-11 03:02:32,GreenVista,Bengaluru,Villa,Flexi,True,11308567,213721,11094846,Confirmed
+L000303,2025-03-01 08:50:42,LakeFront,Hyderabad,2BHK,Down Payment,True,6641531,572566,6068965,Confirmed
+L000313,2025-06-23 02:32:11,GreenVista,Bengaluru,2BHK,Flexi,True,8244818,826983,7417835,Confirmed
+L000317,2025-02-28 22:59:10,UrbanNest,Pune,3BHK,Down Payment,False,6314625,19861,6294764,Confirmed
+L000325,2025-01-11 16:33:06,SkyHeights,Bengaluru,2BHK,Down Payment,False,11259947,701746,10558201,Confirmed
+L000339,2025-07-05 14:34:43,SkyHeights,Bengaluru,Villa,Construction Linked,True,11195321,175364,11019957,Confirmed
+L000349,2025-03-15 18:15:52,UrbanNest,Pune,3BHK,Construction Linked,True,9591442,374652,9216790,Confirmed
+L000363,2024-11-30 15:22:48,GreenVista,Bengaluru,Villa,Down Payment,True,6264114,295186,5968928,Confirmed
+L000402,2024-10-02 04:53:59,UrbanNest,Pune,3BHK,Down Payment,False,12875249,267124,12608125,Confirmed
+L000426,2024-11-15 14:46:36,UrbanNest,Pune,3BHK,Construction Linked,True,8196371,391673,7804698,Confirmed
+L000455,2024-09-09 11:06:02,SkyHeights,Bengaluru,2BHK,Down Payment,True,5661520,351893,5309627,Confirmed
+L000485,2024-05-08 06:44:09,LakeFront,Hyderabad,3BHK,Flexi,True,9872875,158626,9714249,Confirmed
+L000497,2024-03-10 05:02:35,GreenVista,Bengaluru,3BHK,Down Payment,True,12461692,315988,12145704,Confirmed
+L000509,2025-01-29 14:48:37,LakeFront,Hyderabad,2BHK,Flexi,False,8997355,437426,8559929,Confirmed
+L000510,2024-04-17 03:05:28,PalmResidency,Pune,2BHK,Construction Linked,False,7978191,643468,7334723,Confirmed
+L000520,2024-06-08 01:36:55,GreenVista,Bengaluru,2BHK,Down Payment,True,6317190,464052,5853138,Confirmed
+L000543,2024-10-26 21:22:29,PalmResidency,Pune,2BHK,Flexi,True,5144271,95709,5048562,Confirmed
+L000556,2024-07-10 17:20:34,SkyHeights,Bengaluru,Villa,Down Payment,True,10023726,15656,10008070,Confirmed
+L000557,2024-10-29 18:30:32,UrbanNest,Pune,3BHK,Construction Linked,True,9628923,529921,9099002,Confirmed
+L000588,2025-04-13 23:16:22,LakeFront,Hyderabad,3BHK,Flexi,False,11676981,257446,11419535,Confirmed
+L000598,2025-02-22 02:02:39,LakeFront,Hyderabad,3BHK,Construction Linked,True,6632202,142673,6489529,Confirmed
+L000703,2025-06-21 17:14:34,GreenVista,Bengaluru,Villa,Down Payment,False,6239458,135900,6103558,Confirmed
+L000707,2025-05-15 10:34:40,LakeFront,Hyderabad,Villa,Down Payment,True,7105784,535508,6570276,Confirmed
+L000736,2024-09-26 04:53:10,PalmResidency,Pune,Villa,Flexi,True,11233829,498683,10735146,Confirmed
+L000740,2024-05-23 19:59:28,GreenVista,Bengaluru,2BHK,Down Payment,False,12290129,256759,12033370,Confirmed
+L000783,2024-09-24 04:46:20,GreenVista,Bengaluru,2BHK,Flexi,False,11663479,372818,11290661,Confirmed
+L000802,2024-03-29 01:29:45,SkyHeights,Bengaluru,2BHK,Flexi,True,10243214,412162,9831052,Confirmed
+L000808,2024-11-14 22:31:54,UrbanNest,Pune,2BHK,Construction Linked,True,12337951,96911,12241040,Confirmed
+L000835,2024-04-21 08:38:54,SkyHeights,Bengaluru,3BHK,Construction Linked,True,11544223,606625,10937598,Confirmed
+L000839,2024-01-28 21:02:48,LakeFront,Hyderabad,2BHK,Down Payment,True,6032748,822147,5210601,Confirmed
+L000855,2024-02-29 08:48:57,PalmResidency,Pune,3BHK,Construction Linked,True,6719366,199045,6520321,Confirmed
+L000915,2025-01-02 03:34:55,UrbanNest,Pune,2BHK,Down Payment,False,6010228,274821,5735407,Confirmed
+L000940,2024-09-26 12:33:51,GreenVista,Bengaluru,Villa,Construction Linked,True,10071135,872235,9198900,Confirmed
+L000956,2025-01-31 12:02:38,PalmResidency,Pune,3BHK,Construction Linked,True,12697647,193559,12504088,Confirmed
+L000960,2024-08-28 22:07:04,GreenVista,Bengaluru,2BHK,Down Payment,True,7665733,366403,7299330,Confirmed
+L001000,2025-04-05 17:26:59,UrbanNest,Pune,Villa,Flexi,False,5513424,850517,4662907,Confirmed
+L001020,2025-01-08 02:29:54,GreenVista,Bengaluru,3BHK,Construction Linked,True,12665454,157035,12508419,Confirmed
+L001055,2024-06-04 03:08:25,UrbanNest,Pune,2BHK,Construction Linked,False,12567941,62572,12505369,Confirmed
+L001076,2024-03-22 14:35:36,UrbanNest,Pune,2BHK,Flexi,True,9011108,20864,8990244,Confirmed
+L001098,2025-05-09 02:54:53,LakeFront,Hyderabad,3BHK,Down Payment,True,9413540,500536,8913004,Confirmed
+L001104,2024-05-30 07:36:36,PalmResidency,Pune,3BHK,Flexi,True,7607545,467390,7140155,Confirmed
+L001127,2024-05-02 02:24:37,UrbanNest,Pune,2BHK,Construction Linked,False,5828292,234398,5593894,Confirmed
+L001165,2024-06-15 10:30:29,UrbanNest,Pune,Villa,Flexi,False,5535640,130845,5404795,Confirmed
+L001177,2025-04-13 23:29:11,GreenVista,Bengaluru,2BHK,Construction Linked,True,5575461,863747,4711714,Confirmed
+L001189,2024-06-23 07:39:09,PalmResidency,Pune,3BHK,Flexi,True,8004035,285713,7718322,Confirmed
+L001249,2024-06-11 16:46:59,LakeFront,Hyderabad,2BHK,Construction Linked,True,5190950,315176,4875774,Confirmed
+L001256,2024-08-18 10:36:20,GreenVista,Bengaluru,3BHK,Construction Linked,True,9829996,882683,8947313,Confirmed
+L001259,2025-06-02 00:55:02,GreenVista,Bengaluru,2BHK,Construction Linked,False,11271707,862267,10409440,Confirmed
+L001269,2024-12-07 03:43:58,LakeFront,Hyderabad,2BHK,Construction Linked,True,11398890,885127,10513763,Confirmed
+L001270,2024-11-18 19:26:48,PalmResidency,Pune,2BHK,Down Payment,True,12748447,71611,12676836,Confirmed
+L001292,2024-08-07 17:56:51,LakeFront,Hyderabad,3BHK,Flexi,False,11334223,62308,11271915,Confirmed
+L001302,2024-02-22 06:26:27,LakeFront,Hyderabad,Villa,Down Payment,False,10000262,635675,9364587,Confirmed
+L001313,2025-01-24 05:20:46,SkyHeights,Bengaluru,Villa,Flexi,True,5899420,628962,5270458,Confirmed
+L001323,2025-02-16 17:44:32,PalmResidency,Pune,3BHK,Down Payment,True,12440177,231674,12208503,Confirmed
+L001324,2024-11-02 02:16:25,LakeFront,Hyderabad,2BHK,Construction Linked,True,7332541,469269,6863272,Confirmed
+L001348,2025-02-19 17:11:56,UrbanNest,Pune,3BHK,Flexi,True,7135005,694012,6440993,Confirmed
+L001350,2024-03-28 00:29:55,SkyHeights,Bengaluru,2BHK,Flexi,True,8539078,70736,8468342,Confirmed
+L001386,2025-04-20 14:33:27,PalmResidency,Pune,Villa,Down Payment,True,11748465,730027,11018438,Confirmed
+L001414,2025-04-11 09:10:18,SkyHeights,Bengaluru,2BHK,Flexi,False,11872546,824546,11048000,Confirmed
+L001422,2024-07-09 00:43:32,SkyHeights,Bengaluru,Villa,Down Payment,True,8426433,311524,8114909,Confirmed
+L001448,2025-02-28 12:00:35,GreenVista,Bengaluru,3BHK,Down Payment,True,8124743,251247,7873496,Confirmed
+L001487,2024-03-23 23:55:16,GreenVista,Bengaluru,3BHK,Flexi,False,5376670,55816,5320854,Confirmed
+L001494,2025-01-08 16:38:36,GreenVista,Bengaluru,2BHK,Down Payment,True,10575115,393875,10181240,Confirmed
+L001517,2025-01-12 12:21:03,GreenVista,Bengaluru,Villa,Down Payment,True,7241331,161363,7079968,Confirmed
+L001551,2025-03-15 10:49:20,SkyHeights,Bengaluru,Villa,Construction Linked,True,11156758,444602,10712156,Confirmed
+L001572,2025-06-13 06:58:56,PalmResidency,Pune,Villa,Flexi,True,11884589,116145,11768444,Confirmed
+L001594,2024-11-27 05:28:49,PalmResidency,Pune,2BHK,Down Payment,True,10189863,669109,9520754,Confirmed
+L001596,2025-04-19 02:42:08,SkyHeights,Bengaluru,2BHK,Down Payment,True,7981154,131792,7849362,Confirmed
+L001629,2024-08-10 06:23:39,UrbanNest,Pune,2BHK,Flexi,False,11103840,811338,10292502,Confirmed
+L001652,2025-04-15 19:22:17,LakeFront,Hyderabad,3BHK,Down Payment,True,11110062,405759,10704303,Confirmed
+L001668,2024-02-07 01:56:24,SkyHeights,Bengaluru,3BHK,Construction Linked,False,10720624,42620,10678004,Confirmed
+L001688,2025-04-19 05:43:22,LakeFront,Hyderabad,2BHK,Flexi,True,5701016,211084,5489932,Confirmed
+L001704,2024-11-04 21:21:28,SkyHeights,Bengaluru,2BHK,Down Payment,True,6205932,784806,5421126,Confirmed
+L001706,2025-02-16 06:25:16,PalmResidency,Pune,3BHK,Construction Linked,True,8182727,221872,7960855,Confirmed
+L001710,2025-07-17 23:15:20,PalmResidency,Pune,2BHK,Flexi,False,7956345,264716,7691629,Confirmed
+L001749,2025-03-27 00:03:06,PalmResidency,Pune,3BHK,Down Payment,True,12772455,409400,12363055,Confirmed
+L001754,2025-01-15 07:21:56,PalmResidency,Pune,Villa,Flexi,True,11297339,734309,10563030,Confirmed
+L001757,2025-02-09 15:44:13,UrbanNest,Pune,3BHK,Down Payment,False,9860349,85408,9774941,Confirmed
+L001775,2024-08-28 19:41:46,SkyHeights,Bengaluru,2BHK,Down Payment,False,5104798,7734,5097064,Confirmed
+L001777,2024-02-29 15:25:59,GreenVista,Bengaluru,3BHK,Flexi,True,11619443,662678,10956765,Confirmed
+L001779,2024-02-06 18:45:35,PalmResidency,Pune,3BHK,Construction Linked,True,12376434,305489,12070945,Confirmed
+L001782,2024-10-13 12:15:43,SkyHeights,Bengaluru,3BHK,Construction Linked,True,8788491,306049,8482442,Confirmed
+L001811,2024-11-20 02:42:51,LakeFront,Hyderabad,2BHK,Down Payment,True,9119182,16085,9103097,Confirmed
+L001815,2024-02-22 00:15:42,SkyHeights,Bengaluru,Villa,Construction Linked,True,6542430,761291,5781139,Confirmed
+L001849,2024-07-12 21:12:52,SkyHeights,Bengaluru,3BHK,Down Payment,False,5962530,310536,5651994,Confirmed
+L001905,2024-01-30 08:18:43,SkyHeights,Bengaluru,2BHK,Construction Linked,True,8053400,611041,7442359,Confirmed
+L001944,2025-01-23 14:36:52,PalmResidency,Pune,3BHK,Flexi,True,9158705,685608,8473097,Confirmed
+L001946,2025-03-13 22:51:40,PalmResidency,Pune,3BHK,Down Payment,True,11185903,761358,10424545,Confirmed
+L001972,2025-05-02 22:58:27,LakeFront,Hyderabad,3BHK,Down Payment,False,7712250,525399,7186851,Confirmed
+L001987,2025-07-15 17:54:11,GreenVista,Bengaluru,2BHK,Construction Linked,False,7088802,671107,6417695,Confirmed
+L001992,2024-04-14 01:22:19,GreenVista,Bengaluru,Villa,Flexi,True,11548309,850882,10697427,Confirmed
+L002005,2025-01-20 21:12:38,GreenVista,Bengaluru,3BHK,Construction Linked,True,11668649,687634,10981015,Confirmed
+L002042,2024-07-09 05:57:07,SkyHeights,Bengaluru,Villa,Down Payment,True,8033519,247240,7786279,Confirmed
+L002062,2024-01-28 15:27:06,SkyHeights,Bengaluru,Villa,Flexi,False,6142736,295239,5847497,Confirmed
+L002090,2024-11-13 18:21:53,LakeFront,Hyderabad,3BHK,Construction Linked,True,12721951,166904,12555047,Confirmed
+L002137,2024-05-17 07:04:28,LakeFront,Hyderabad,Villa,Flexi,False,12163144,759234,11403910,Confirmed
+L002206,2024-06-12 10:59:01,PalmResidency,Pune,2BHK,Down Payment,True,5876258,724777,5151481,Confirmed
+L002228,2025-07-10 11:43:43,SkyHeights,Bengaluru,Villa,Construction Linked,True,12066452,522371,11544081,Confirmed
+L002231,2025-03-27 23:24:05,GreenVista,Bengaluru,3BHK,Down Payment,True,5734241,298202,5436039,Confirmed
+L002268,2025-06-23 22:14:41,GreenVista,Bengaluru,3BHK,Down Payment,True,9425492,125859,9299633,Confirmed
+L002280,2024-06-28 12:32:26,LakeFront,Hyderabad,2BHK,Construction Linked,False,11996874,272853,11724021,Confirmed
+L002305,2024-06-17 11:24:51,UrbanNest,Pune,3BHK,Down Payment,True,8654513,529657,8124856,Confirmed
+L002317,2025-05-13 18:17:16,PalmResidency,Pune,3BHK,Construction Linked,False,6630481,743818,5886663,Confirmed
+L002321,2024-07-14 00:46:51,GreenVista,Bengaluru,3BHK,Down Payment,True,9580587,331772,9248815,Confirmed
+L002385,2024-09-26 10:01:24,LakeFront,Hyderabad,2BHK,Down Payment,False,11341110,495818,10845292,Confirmed
+L002391,2025-01-31 03:47:02,GreenVista,Bengaluru,Villa,Flexi,True,5913142,205648,5707494,Confirmed
+L002398,2024-04-11 13:55:03,UrbanNest,Pune,2BHK,Down Payment,True,6509869,527244,5982625,Confirmed
+L002401,2025-04-23 19:40:58,UrbanNest,Pune,2BHK,Down Payment,False,8414394,402968,8011426,Confirmed
+L002406,2024-11-11 05:50:17,SkyHeights,Bengaluru,2BHK,Construction Linked,True,8815912,543576,8272336,Confirmed
+L002410,2024-04-20 07:23:33,LakeFront,Hyderabad,2BHK,Down Payment,True,10090656,475990,9614666,Confirmed
+L002426,2024-03-26 13:52:07,PalmResidency,Pune,2BHK,Construction Linked,True,5112817,640336,4472481,Confirmed
+L002465,2024-10-08 12:21:30,LakeFront,Hyderabad,Villa,Flexi,True,11884867,29327,11855540,Confirmed
+L002489,2024-07-10 09:11:50,PalmResidency,Pune,Villa,Construction Linked,False,5811579,453246,5358333,Confirmed
+L002519,2024-04-16 05:20:52,LakeFront,Hyderabad,Villa,Construction Linked,False,10865935,470496,10395439,Confirmed
+L002532,2024-12-16 17:05:11,GreenVista,Bengaluru,3BHK,Flexi,True,12268585,732061,11536524,Confirmed
+L002538,2024-07-26 01:45:14,GreenVista,Bengaluru,3BHK,Down Payment,True,9922910,845210,9077700,Confirmed
+L002555,2024-11-15 03:55:35,LakeFront,Hyderabad,Villa,Down Payment,True,12548647,790504,11758143,Confirmed
+L002556,2024-07-04 13:33:52,LakeFront,Hyderabad,3BHK,Construction Linked,True,12475266,434337,12040929,Confirmed
+L002585,2024-06-04 23:07:33,PalmResidency,Pune,2BHK,Construction Linked,True,7889057,613475,7275582,Confirmed
+L002629,2025-02-06 04:08:56,UrbanNest,Pune,3BHK,Flexi,True,9227041,447062,8779979,Confirmed
+L002662,2024-07-07 10:04:10,PalmResidency,Pune,3BHK,Construction Linked,False,10023073,503259,9519814,Confirmed
+L002669,2024-08-08 12:12:29,UrbanNest,Pune,2BHK,Construction Linked,False,10628912,830822,9798090,Confirmed
+L002674,2025-02-12 10:21:04,LakeFront,Hyderabad,3BHK,Flexi,True,9011870,471271,8540599,Confirmed
+L002678,2024-07-22 05:00:18,PalmResidency,Pune,3BHK,Down Payment,False,8388950,884845,7504105,Confirmed
+L002682,2025-02-17 19:10:06,UrbanNest,Pune,3BHK,Flexi,False,12711572,84164,12627408,Confirmed
+L002689,2024-05-04 01:30:16,SkyHeights,Bengaluru,2BHK,Construction Linked,True,5714983,225215,5489768,Confirmed
+L002704,2024-11-08 05:57:40,LakeFront,Hyderabad,2BHK,Construction Linked,False,10555968,354042,10201926,Confirmed
+L002724,2024-12-01 00:36:03,SkyHeights,Bengaluru,2BHK,Flexi,False,9549938,443069,9106869,Confirmed
+L002729,2024-02-03 18:35:11,SkyHeights,Bengaluru,2BHK,Flexi,False,9636186,337221,9298965,Confirmed
+L002750,2025-02-19 12:42:13,SkyHeights,Bengaluru,2BHK,Down Payment,False,11904901,114782,11790119,Confirmed
+L002761,2024-09-22 12:33:51,SkyHeights,Bengaluru,2BHK,Construction Linked,False,5325204,169466,5155738,Confirmed
+L002770,2024-02-18 19:47:24,PalmResidency,Pune,Villa,Construction Linked,True,6247216,563165,5684051,Confirmed
+L002795,2024-06-30 22:37:24,UrbanNest,Pune,2BHK,Construction Linked,False,8264367,435236,7829131,Confirmed
+L002805,2025-05-08 06:59:09,GreenVista,Bengaluru,3BHK,Down Payment,True,8734677,48114,8686563,Confirmed
+L002807,2025-05-11 12:39:25,SkyHeights,Bengaluru,2BHK,Down Payment,True,7403772,457606,6946166,Confirmed
+L002874,2025-01-16 02:20:58,SkyHeights,Bengaluru,2BHK,Down Payment,True,12115371,540022,11575349,Confirmed
+L002876,2025-04-23 04:28:04,UrbanNest,Pune,3BHK,Construction Linked,True,8030160,802680,7227480,Confirmed
+L002887,2025-04-03 02:02:32,SkyHeights,Bengaluru,2BHK,Flexi,True,12196819,6818,12190001,Confirmed
+L002904,2024-11-27 13:15:51,GreenVista,Bengaluru,Villa,Down Payment,False,5458630,580619,4878011,Confirmed
+L002913,2024-04-17 11:57:58,UrbanNest,Pune,2BHK,Construction Linked,False,6482459,534019,5948440,Confirmed
+L002931,2025-01-06 00:43:51,PalmResidency,Pune,Villa,Construction Linked,True,8442018,280630,8161388,Confirmed
+L002935,2024-11-04 09:34:50,UrbanNest,Pune,2BHK,Construction Linked,False,11137211,285434,10851777,Confirmed
+L002941,2025-01-21 19:12:19,UrbanNest,Pune,3BHK,Down Payment,False,5221694,298888,4922806,Confirmed
+L002967,2024-12-22 17:30:37,LakeFront,Hyderabad,Villa,Down Payment,True,7286899,790464,6496435,Confirmed
+L002969,2024-02-18 15:35:38,SkyHeights,Bengaluru,3BHK,Flexi,False,8953683,262871,8690812,Confirmed
+L002981,2024-08-07 23:18:03,SkyHeights,Bengaluru,2BHK,Flexi,True,7043118,362486,6680632,Confirmed
+L002984,2024-12-11 04:55:49,LakeFront,Hyderabad,2BHK,Down Payment,False,11575557,467777,11107780,Confirmed
+L002989,2025-01-13 23:30:18,UrbanNest,Pune,3BHK,Construction Linked,False,11902485,488202,11414283,Confirmed
+L002993,2025-07-07 15:12:29,UrbanNest,Pune,Villa,Flexi,True,5366299,649820,4716479,Confirmed
+L003001,2024-07-26 04:00:01,GreenVista,Bengaluru,3BHK,Down Payment,True,8932573,765629,8166944,Confirmed
+L003010,2025-03-12 06:02:13,UrbanNest,Pune,3BHK,Flexi,False,8968358,508861,8459497,Confirmed
+L003022,2025-06-24 18:22:37,PalmResidency,Pune,3BHK,Construction Linked,False,10557219,287102,10270117,Confirmed
+L003041,2025-06-22 18:08:24,SkyHeights,Bengaluru,3BHK,Construction Linked,True,12453594,154692,12298902,Confirmed
+L003065,2024-10-24 06:21:30,UrbanNest,Pune,Villa,Construction Linked,True,9978332,673107,9305225,Confirmed
+L003069,2024-03-05 18:50:59,GreenVista,Bengaluru,2BHK,Flexi,True,6494795,607769,5887026,Confirmed
+L003097,2025-01-23 21:22:54,PalmResidency,Pune,2BHK,Down Payment,False,6251637,605350,5646287,Confirmed
+L003108,2024-07-07 21:25:37,LakeFront,Hyderabad,3BHK,Flexi,True,9563012,736501,8826511,Confirmed
+L003119,2025-05-07 16:39:28,LakeFront,Hyderabad,3BHK,Flexi,False,11297585,736088,10561497,Confirmed
+L003153,2025-06-17 14:16:26,SkyHeights,Bengaluru,2BHK,Down Payment,True,11405068,166001,11239067,Confirmed
+L003159,2024-07-26 07:41:02,UrbanNest,Pune,2BHK,Down Payment,True,11363811,729970,10633841,Confirmed
+L003168,2024-09-02 21:40:04,SkyHeights,Bengaluru,2BHK,Construction Linked,False,12424469,55109,12369360,Confirmed
+L003171,2025-04-01 18:14:23,PalmResidency,Pune,Villa,Flexi,False,5253401,477881,4775520,Confirmed
+L003202,2025-02-25 16:11:55,UrbanNest,Pune,Villa,Down Payment,True,5797999,364163,5433836,Confirmed
+L003219,2025-05-07 17:42:06,SkyHeights,Bengaluru,3BHK,Down Payment,False,5089055,40255,5048800,Confirmed
+L003221,2025-05-01 04:01:20,SkyHeights,Bengaluru,3BHK,Flexi,False,10109375,823326,9286049,Confirmed
+L003236,2024-07-30 18:02:43,SkyHeights,Bengaluru,3BHK,Flexi,False,8128121,347107,7781014,Confirmed
+L003265,2024-12-25 05:42:44,UrbanNest,Pune,Villa,Construction Linked,True,10033702,671979,9361723,Confirmed
+L003280,2024-11-24 12:38:15,UrbanNest,Pune,Villa,Flexi,True,6432631,445188,5987443,Confirmed
+L003294,2024-04-28 18:50:06,GreenVista,Bengaluru,2BHK,Flexi,True,6489263,344477,6144786,Confirmed
+L003334,2024-12-03 02:41:57,SkyHeights,Bengaluru,2BHK,Down Payment,False,11749549,542349,11207200,Confirmed
+L003381,2024-10-31 06:51:32,LakeFront,Hyderabad,Villa,Flexi,True,12524302,326129,12198173,Confirmed
+L003428,2024-02-18 04:30:49,LakeFront,Hyderabad,Villa,Down Payment,False,10865133,364007,10501126,Confirmed
+L003433,2024-09-22 02:43:31,PalmResidency,Pune,Villa,Construction Linked,True,9544422,139745,9404677,Confirmed
+L003455,2025-04-18 07:18:21,LakeFront,Hyderabad,Villa,Down Payment,False,10506574,665692,9840882,Confirmed
+L003462,2024-10-01 19:31:56,PalmResidency,Pune,Villa,Down Payment,False,10423784,367753,10056031,Confirmed
+L003477,2024-01-28 06:22:54,UrbanNest,Pune,2BHK,Down Payment,True,6400213,295376,6104837,Confirmed
+L003483,2025-07-09 15:28:14,UrbanNest,Pune,3BHK,Flexi,True,5338640,121502,5217138,Confirmed
+L003502,2025-02-27 23:22:36,LakeFront,Hyderabad,2BHK,Down Payment,True,10788195,580306,10207889,Confirmed
+L003540,2024-05-09 01:45:18,UrbanNest,Pune,Villa,Construction Linked,True,8238241,302003,7936238,Confirmed
+L003589,2025-04-10 13:16:12,LakeFront,Hyderabad,Villa,Down Payment,True,7683968,483107,7200861,Confirmed
+L003597,2024-03-20 04:36:47,LakeFront,Hyderabad,2BHK,Construction Linked,True,6617273,477153,6140120,Confirmed
+L003637,2024-05-07 06:39:17,GreenVista,Bengaluru,Villa,Down Payment,True,10038988,363765,9675223,Confirmed
+L003640,2024-02-21 21:25:20,PalmResidency,Pune,3BHK,Down Payment,False,6113653,463103,5650550,Confirmed
+L003650,2025-02-25 19:46:14,UrbanNest,Pune,3BHK,Flexi,True,11513290,216680,11296610,Confirmed
+L003661,2024-02-27 00:38:49,GreenVista,Bengaluru,3BHK,Down Payment,False,5100532,222397,4878135,Confirmed
+L003668,2024-09-18 23:31:31,LakeFront,Hyderabad,2BHK,Flexi,False,9895009,357926,9537083,Confirmed
+L003674,2024-11-09 11:53:36,PalmResidency,Pune,Villa,Flexi,False,7885430,501261,7384169,Confirmed
+L003697,2024-05-28 09:14:01,LakeFront,Hyderabad,Villa,Flexi,True,5288709,867898,4420811,Confirmed
+L003702,2024-07-09 13:15:38,LakeFront,Hyderabad,2BHK,Construction Linked,True,10492312,346017,10146295,Confirmed
+L003708,2025-06-15 04:31:51,GreenVista,Bengaluru,Villa,Flexi,True,7856654,783719,7072935,Confirmed
+L003715,2024-01-30 09:33:25,LakeFront,Hyderabad,3BHK,Flexi,False,11030852,629412,10401440,Confirmed
+L003732,2025-02-15 20:39:53,UrbanNest,Pune,3BHK,Flexi,True,6970183,219965,6750218,Confirmed
+L003782,2024-01-31 08:41:17,UrbanNest,Pune,2BHK,Construction Linked,False,6007153,755615,5251538,Confirmed
+L003789,2025-05-16 13:24:28,UrbanNest,Pune,Villa,Down Payment,True,5436931,611332,4825599,Confirmed
+L003801,2025-01-22 01:19:50,GreenVista,Bengaluru,2BHK,Flexi,True,12667641,120740,12546901,Confirmed
+L003803,2024-03-28 15:30:33,PalmResidency,Pune,Villa,Construction Linked,True,8198275,132865,8065410,Confirmed
+L003808,2024-10-18 20:39:42,LakeFront,Hyderabad,3BHK,Down Payment,False,9060072,575124,8484948,Confirmed
+L003826,2025-04-02 23:44:39,PalmResidency,Pune,3BHK,Down Payment,False,5329064,600464,4728600,Confirmed
+L003836,2024-01-16 19:35:56,GreenVista,Bengaluru,3BHK,Down Payment,False,9994989,287712,9707277,Confirmed
+L003860,2024-09-14 19:20:33,UrbanNest,Pune,Villa,Flexi,True,11118342,173116,10945226,Confirmed
+L003894,2025-07-24 18:38:33,UrbanNest,Pune,3BHK,Down Payment,False,12956788,224495,12732293,Confirmed
+L003904,2024-06-15 15:24:54,UrbanNest,Pune,Villa,Flexi,True,11509728,623278,10886450,Confirmed
+L003926,2024-01-30 15:46:31,UrbanNest,Pune,2BHK,Flexi,True,10112302,872791,9239511,Confirmed
+L003934,2025-06-23 20:22:13,SkyHeights,Bengaluru,3BHK,Construction Linked,True,8231572,373993,7857579,Confirmed
+L003986,2024-07-04 01:27:18,PalmResidency,Pune,2BHK,Flexi,True,8680867,471563,8209304,Confirmed
+L003998,2024-02-02 07:51:51,UrbanNest,Pune,2BHK,Down Payment,True,5560411,64486,5495925,Confirmed
+L004026,2025-01-31 06:22:54,UrbanNest,Pune,3BHK,Flexi,True,5299552,890819,4408733,Confirmed
+L004049,2025-04-12 08:12:33,GreenVista,Bengaluru,3BHK,Construction Linked,True,5630442,19808,5610634,Confirmed
+L004055,2024-08-09 05:06:03,LakeFront,Hyderabad,2BHK,Down Payment,True,11769314,734343,11034971,Confirmed
+L004057,2024-12-28 17:43:00,SkyHeights,Bengaluru,3BHK,Down Payment,True,12785111,726682,12058429,Confirmed
+L004064,2025-05-20 17:13:27,GreenVista,Bengaluru,3BHK,Down Payment,True,10563269,62741,10500528,Confirmed
+L004092,2024-08-05 08:20:13,SkyHeights,Bengaluru,2BHK,Construction Linked,True,8231457,377355,7854102,Confirmed
+L004110,2025-01-19 20:24:04,LakeFront,Hyderabad,3BHK,Flexi,False,5334058,896328,4437730,Confirmed
+L004115,2024-07-05 21:41:51,GreenVista,Bengaluru,2BHK,Construction Linked,True,11368904,879621,10489283,Confirmed
+L004119,2025-05-29 01:38:03,LakeFront,Hyderabad,3BHK,Construction Linked,True,6695269,504118,6191151,Confirmed
+L004132,2025-05-16 04:41:13,PalmResidency,Pune,Villa,Construction Linked,True,10786121,281101,10505020,Confirmed
+L004134,2024-10-31 12:35:15,GreenVista,Bengaluru,3BHK,Down Payment,True,12544353,765860,11778493,Confirmed
+L004141,2024-08-01 17:58:59,UrbanNest,Pune,2BHK,Construction Linked,False,11733020,637253,11095767,Confirmed
+L004146,2024-09-10 17:01:11,SkyHeights,Bengaluru,2BHK,Flexi,True,7326800,258939,7067861,Confirmed
+L004154,2025-05-23 14:26:37,UrbanNest,Pune,2BHK,Construction Linked,True,6893230,575124,6318106,Confirmed
+L004175,2025-02-12 04:42:55,GreenVista,Bengaluru,3BHK,Down Payment,True,9598774,684733,8914041,Confirmed
+L004222,2025-03-11 19:58:34,GreenVista,Bengaluru,3BHK,Construction Linked,False,6276292,284876,5991416,Confirmed
+L004261,2024-07-07 01:33:40,SkyHeights,Bengaluru,2BHK,Flexi,True,10986026,379152,10606874,Confirmed
+L004291,2024-04-28 08:44:29,UrbanNest,Pune,Villa,Flexi,False,11650475,586299,11064176,Confirmed
+L004312,2024-08-06 13:26:57,SkyHeights,Bengaluru,Villa,Down Payment,False,10959344,799639,10159705,Confirmed
+L004327,2024-05-25 13:25:56,PalmResidency,Pune,3BHK,Flexi,False,11505288,175489,11329799,Confirmed
+L004362,2025-04-18 04:56:08,UrbanNest,Pune,2BHK,Construction Linked,False,8212119,880954,7331165,Confirmed
+L004387,2025-05-22 00:42:35,LakeFront,Hyderabad,2BHK,Construction Linked,False,9848425,31466,9816959,Confirmed
+L004391,2025-05-24 15:28:45,PalmResidency,Pune,Villa,Construction Linked,True,8385872,885061,7500811,Confirmed
+L004392,2024-07-19 15:42:28,SkyHeights,Bengaluru,Villa,Down Payment,False,12871894,628183,12243711,Confirmed
+L004454,2024-10-30 17:07:40,UrbanNest,Pune,2BHK,Down Payment,False,11373502,160153,11213349,Confirmed
+L004473,2025-06-30 03:15:33,GreenVista,Bengaluru,Villa,Down Payment,True,10981787,771383,10210404,Confirmed
+L004486,2024-03-31 04:55:41,GreenVista,Bengaluru,3BHK,Flexi,True,5338269,701185,4637084,Confirmed
+L004495,2024-02-08 04:07:37,LakeFront,Hyderabad,Villa,Flexi,False,5783940,897982,4885958,Confirmed
+L004499,2025-05-09 15:50:54,LakeFront,Hyderabad,Villa,Down Payment,False,10354501,887938,9466563,Confirmed
+L004546,2024-07-02 00:41:33,SkyHeights,Bengaluru,Villa,Flexi,True,9232277,248985,8983292,Confirmed
+L004591,2024-06-27 02:14:15,PalmResidency,Pune,Villa,Down Payment,False,6782115,329307,6452808,Confirmed
+L004639,2025-07-04 03:58:31,LakeFront,Hyderabad,2BHK,Construction Linked,False,7554025,677887,6876138,Confirmed
+L004651,2024-11-16 00:08:32,PalmResidency,Pune,Villa,Down Payment,True,5084706,756881,4327825,Confirmed
+L004652,2024-12-07 11:10:45,GreenVista,Bengaluru,3BHK,Down Payment,True,8878164,446206,8431958,Confirmed
+L004679,2025-06-05 04:59:17,PalmResidency,Pune,3BHK,Down Payment,False,6843999,441869,6402130,Confirmed
+L004680,2024-11-23 07:03:11,UrbanNest,Pune,Villa,Flexi,False,5911922,780285,5131637,Confirmed
+L004685,2024-11-12 22:32:12,LakeFront,Hyderabad,2BHK,Construction Linked,True,5820993,545145,5275848,Confirmed
+L004689,2024-03-06 00:22:30,UrbanNest,Pune,2BHK,Flexi,True,6834093,16839,6817254,Confirmed
+L004698,2024-04-19 20:12:28,LakeFront,Hyderabad,3BHK,Flexi,False,7452888,300761,7152127,Confirmed
+L004714,2025-07-22 09:44:54,PalmResidency,Pune,3BHK,Construction Linked,True,9289799,67278,9222521,Confirmed
+L004720,2025-02-10 04:18:57,LakeFront,Hyderabad,3BHK,Flexi,True,11436372,59612,11376760,Confirmed
+L004740,2024-07-29 14:44:17,PalmResidency,Pune,2BHK,Construction Linked,True,10850239,398497,10451742,Confirmed
+L004750,2024-05-31 12:29:20,PalmResidency,Pune,3BHK,Construction Linked,True,9680610,373425,9307185,Confirmed
+L004751,2024-03-05 07:26:55,PalmResidency,Pune,2BHK,Flexi,False,12010220,766967,11243253,Confirmed
+L004896,2024-03-09 18:51:27,UrbanNest,Pune,3BHK,Construction Linked,True,5724400,483139,5241261,Confirmed
+L004961,2025-07-06 10:08:19,UrbanNest,Pune,3BHK,Down Payment,True,5939251,148002,5791249,Confirmed
+L004965,2025-04-29 00:22:28,UrbanNest,Pune,3BHK,Down Payment,True,12947098,855514,12091584,Confirmed
+L004979,2024-10-14 14:41:18,GreenVista,Bengaluru,2BHK,Construction Linked,True,8011969,35107,7976862,Confirmed
+L004999,2025-02-07 05:59:39,GreenVista,Bengaluru,3BHK,Down Payment,False,7436227,403445,7032782,Confirmed
+L005013,2024-08-28 07:52:20,LakeFront,Hyderabad,2BHK,Construction Linked,False,5673283,157454,5515829,Confirmed
+L005063,2024-06-07 06:04:28,UrbanNest,Pune,3BHK,Down Payment,False,9127243,664243,8463000,Confirmed
+L005097,2025-04-03 09:29:46,LakeFront,Hyderabad,Villa,Down Payment,True,12742596,278995,12463601,Confirmed
+L005103,2024-10-10 04:24:34,GreenVista,Bengaluru,Villa,Down Payment,True,11654644,615959,11038685,Confirmed
+L005125,2024-04-13 21:37:41,SkyHeights,Bengaluru,Villa,Flexi,False,12584040,77817,12506223,Confirmed
+L005126,2025-06-30 14:47:10,GreenVista,Bengaluru,3BHK,Construction Linked,True,5424257,323367,5100890,Confirmed
+L005167,2024-07-01 01:34:19,SkyHeights,Bengaluru,Villa,Construction Linked,False,8621765,286793,8334972,Confirmed
+L005174,2024-10-15 03:51:19,GreenVista,Bengaluru,Villa,Construction Linked,False,12057319,135225,11922094,Confirmed
+L005198,2024-02-26 01:10:39,SkyHeights,Bengaluru,3BHK,Down Payment,True,11683116,611434,11071682,Confirmed
+L005218,2025-07-16 00:46:09,LakeFront,Hyderabad,Villa,Flexi,True,9759166,739060,9020106,Confirmed
+L005232,2025-05-03 19:34:42,LakeFront,Hyderabad,3BHK,Down Payment,False,10276722,581065,9695657,Confirmed
+L005240,2025-02-01 12:07:36,GreenVista,Bengaluru,Villa,Construction Linked,True,12861688,685894,12175794,Confirmed
+L005253,2025-04-05 16:37:17,SkyHeights,Bengaluru,2BHK,Construction Linked,False,5287702,743585,4544117,Confirmed
+L005258,2024-08-06 03:53:19,LakeFront,Hyderabad,2BHK,Flexi,True,5351806,390996,4960810,Confirmed
+L005274,2024-08-04 19:38:00,SkyHeights,Bengaluru,2BHK,Flexi,False,9506126,296832,9209294,Confirmed
+L005276,2024-05-11 16:23:17,SkyHeights,Bengaluru,Villa,Flexi,True,11166241,123454,11042787,Confirmed
+L005289,2025-04-16 05:29:14,SkyHeights,Bengaluru,2BHK,Flexi,True,11322162,694612,10627550,Confirmed
+L005292,2025-06-27 12:32:08,UrbanNest,Pune,Villa,Construction Linked,True,9185186,569187,8615999,Confirmed
+L005337,2024-06-11 17:38:04,LakeFront,Hyderabad,2BHK,Construction Linked,False,8836358,365821,8470537,Confirmed
+L005358,2024-05-18 12:02:26,UrbanNest,Pune,3BHK,Down Payment,True,11332660,128580,11204080,Confirmed
+L005375,2024-10-16 19:38:01,LakeFront,Hyderabad,3BHK,Construction Linked,True,12995413,690270,12305143,Confirmed
+L005419,2024-03-27 22:41:27,GreenVista,Bengaluru,2BHK,Construction Linked,False,8030716,414809,7615907,Confirmed
+L005475,2024-11-25 17:42:27,LakeFront,Hyderabad,Villa,Construction Linked,True,5977500,771307,5206193,Confirmed
+L005485,2024-02-24 00:26:34,UrbanNest,Pune,3BHK,Down Payment,False,7263093,23518,7239575,Confirmed
+L005555,2025-05-04 13:31:26,UrbanNest,Pune,3BHK,Construction Linked,False,12701895,229335,12472560,Confirmed
+L005577,2024-06-17 23:52:07,UrbanNest,Pune,3BHK,Flexi,False,5479141,621451,4857690,Confirmed
+L005586,2025-01-04 18:00:25,GreenVista,Bengaluru,Villa,Flexi,False,9642864,488718,9154146,Confirmed
+L005589,2024-07-23 16:57:52,LakeFront,Hyderabad,3BHK,Down Payment,True,6499134,542189,5956945,Confirmed
+L005612,2025-07-14 09:24:12,SkyHeights,Bengaluru,3BHK,Construction Linked,True,9611242,335044,9276198,Confirmed
+L005613,2025-01-09 04:07:39,UrbanNest,Pune,Villa,Construction Linked,False,12829465,318411,12511054,Confirmed
+L005620,2025-04-30 14:42:30,GreenVista,Bengaluru,Villa,Flexi,False,8546492,138091,8408401,Confirmed
+L005643,2025-03-26 12:39:25,UrbanNest,Pune,2BHK,Construction Linked,False,11014493,619815,10394678,Confirmed
+L005658,2024-07-25 03:26:09,UrbanNest,Pune,Villa,Flexi,True,10062006,177344,9884662,Confirmed
+L005669,2025-04-25 09:57:49,GreenVista,Bengaluru,2BHK,Down Payment,True,6204123,306326,5897797,Confirmed
+L005693,2024-01-22 13:49:15,UrbanNest,Pune,2BHK,Down Payment,True,10140817,161397,9979420,Confirmed
+L005754,2024-04-22 01:46:32,UrbanNest,Pune,Villa,Flexi,True,6986555,696637,6289918,Confirmed
+L005755,2024-06-20 09:05:45,PalmResidency,Pune,3BHK,Flexi,True,9891045,602872,9288173,Confirmed
+L005778,2024-08-28 18:53:54,LakeFront,Hyderabad,3BHK,Construction Linked,False,11026747,330727,10696020,Confirmed
+L005850,2024-11-07 16:43:19,UrbanNest,Pune,3BHK,Construction Linked,True,5361127,229117,5132010,Confirmed
+L005868,2025-01-04 21:21:44,PalmResidency,Pune,3BHK,Construction Linked,True,9241791,200699,9041092,Confirmed
+L005886,2024-12-15 00:24:39,PalmResidency,Pune,3BHK,Flexi,False,10816269,637353,10178916,Confirmed
+L005908,2025-04-11 22:35:34,SkyHeights,Bengaluru,Villa,Construction Linked,True,9960674,888905,9071769,Confirmed
+L005918,2024-02-08 22:29:26,UrbanNest,Pune,Villa,Down Payment,False,11659438,613941,11045497,Confirmed
+L005925,2024-10-31 00:47:12,PalmResidency,Pune,3BHK,Flexi,True,9300631,516203,8784428,Confirmed
+L005953,2024-08-24 15:17:22,GreenVista,Bengaluru,2BHK,Construction Linked,True,12653941,616493,12037448,Confirmed
+L005962,2024-06-28 20:46:01,GreenVista,Bengaluru,Villa,Down Payment,True,10634796,733704,9901092,Confirmed
+L005965,2025-05-05 01:10:25,UrbanNest,Pune,3BHK,Down Payment,True,8039027,441226,7597801,Confirmed
+L005977,2024-04-05 01:47:58,PalmResidency,Pune,Villa,Flexi,True,12073438,508261,11565177,Confirmed
+L005986,2025-06-15 05:55:32,UrbanNest,Pune,3BHK,Flexi,False,9310363,296236,9014127,Confirmed
+L005996,2024-09-07 16:24:14,PalmResidency,Pune,Villa,Flexi,False,11631980,146272,11485708,Confirmed
+L006021,2025-07-02 13:23:32,UrbanNest,Pune,3BHK,Construction Linked,True,12460916,723986,11736930,Confirmed
+L006043,2024-01-24 20:40:54,GreenVista,Bengaluru,3BHK,Construction Linked,False,10458463,364487,10093976,Confirmed
+L006124,2025-06-29 01:56:10,LakeFront,Hyderabad,3BHK,Down Payment,True,8175859,15864,8159995,Confirmed
+L006145,2024-08-05 15:19:39,PalmResidency,Pune,2BHK,Flexi,True,5410779,41170,5369609,Confirmed
+L006158,2024-09-30 17:47:28,UrbanNest,Pune,Villa,Down Payment,True,11155726,230883,10924843,Confirmed
+L006187,2025-01-19 17:15:20,SkyHeights,Bengaluru,2BHK,Down Payment,False,8989078,581396,8407682,Confirmed
+L006193,2024-05-16 16:37:45,PalmResidency,Pune,Villa,Flexi,True,7240454,721772,6518682,Confirmed
+L006225,2025-07-04 19:20:48,GreenVista,Bengaluru,Villa,Flexi,False,12083188,608645,11474543,Confirmed
+L006241,2024-02-18 11:32:53,GreenVista,Bengaluru,3BHK,Construction Linked,False,11579057,795220,10783837,Confirmed
+L006314,2025-06-15 02:39:48,PalmResidency,Pune,3BHK,Construction Linked,True,7518504,704465,6814039,Confirmed
+L006328,2024-09-25 18:26:28,GreenVista,Bengaluru,2BHK,Construction Linked,False,9160909,364021,8796888,Confirmed
+L006333,2025-01-18 13:22:18,UrbanNest,Pune,2BHK,Construction Linked,True,11948622,397977,11550645,Confirmed
+L006348,2025-02-25 14:32:56,LakeFront,Hyderabad,3BHK,Down Payment,True,6476383,141997,6334386,Confirmed
+L006365,2024-03-06 08:50:34,GreenVista,Bengaluru,2BHK,Construction Linked,False,6306889,180658,6126231,Confirmed
+L006374,2024-04-29 14:16:10,SkyHeights,Bengaluru,Villa,Flexi,False,6172133,126796,6045337,Confirmed
+L006389,2024-02-26 12:42:17,UrbanNest,Pune,2BHK,Down Payment,True,9288497,132900,9155597,Confirmed
+L006407,2025-01-19 07:23:27,GreenVista,Bengaluru,2BHK,Flexi,True,5460324,156329,5303995,Confirmed
+L006422,2025-02-24 11:20:57,LakeFront,Hyderabad,3BHK,Down Payment,True,11555461,652943,10902518,Confirmed
+L006443,2024-12-21 03:50:18,PalmResidency,Pune,3BHK,Flexi,False,7591957,383504,7208453,Confirmed
+L006464,2024-02-04 15:02:50,SkyHeights,Bengaluru,3BHK,Construction Linked,True,8316812,90149,8226663,Confirmed
+L006487,2024-12-06 14:50:07,UrbanNest,Pune,3BHK,Flexi,False,7402976,419711,6983265,Confirmed
+L006494,2024-06-16 17:51:23,PalmResidency,Pune,3BHK,Flexi,True,12451323,620808,11830515,Confirmed
+L006525,2025-03-09 03:55:54,UrbanNest,Pune,Villa,Construction Linked,True,7666325,224180,7442145,Confirmed
+L006531,2024-11-27 23:16:50,UrbanNest,Pune,2BHK,Construction Linked,False,8523246,183862,8339384,Confirmed
+L006539,2024-12-17 05:01:51,UrbanNest,Pune,3BHK,Construction Linked,False,12564358,840808,11723550,Confirmed
+L006557,2024-06-16 16:03:28,SkyHeights,Bengaluru,2BHK,Down Payment,True,9301485,502912,8798573,Confirmed
+L006578,2024-09-27 04:41:45,PalmResidency,Pune,Villa,Flexi,True,11123535,771810,10351725,Confirmed
+L006633,2024-07-21 03:45:46,SkyHeights,Bengaluru,2BHK,Construction Linked,True,8556620,772957,7783663,Confirmed
+L006639,2024-03-30 03:18:01,SkyHeights,Bengaluru,2BHK,Construction Linked,False,8581386,182542,8398844,Confirmed
+L006653,2025-06-03 07:41:07,GreenVista,Bengaluru,Villa,Flexi,True,10728946,564861,10164085,Confirmed
+L006665,2024-10-16 19:32:10,PalmResidency,Pune,Villa,Down Payment,True,9869140,255476,9613664,Confirmed
+L006667,2024-04-22 08:42:40,GreenVista,Bengaluru,3BHK,Down Payment,True,8466859,459489,8007370,Confirmed
+L006681,2024-07-10 15:19:32,GreenVista,Bengaluru,2BHK,Flexi,True,5004054,449377,4554677,Confirmed
+L006692,2024-09-09 11:34:02,UrbanNest,Pune,Villa,Down Payment,True,5489574,471674,5017900,Confirmed
+L006715,2024-05-28 21:19:30,PalmResidency,Pune,2BHK,Down Payment,False,6071068,744113,5326955,Confirmed
+L006750,2025-03-24 23:39:29,GreenVista,Bengaluru,Villa,Construction Linked,False,8187509,646944,7540565,Confirmed
+L006769,2024-05-12 22:44:08,GreenVista,Bengaluru,Villa,Flexi,True,5773265,59224,5714041,Confirmed
+L006770,2024-01-30 13:20:30,UrbanNest,Pune,2BHK,Down Payment,True,12536944,484997,12051947,Confirmed
+L006795,2024-04-09 14:42:17,PalmResidency,Pune,Villa,Flexi,True,12216420,92506,12123914,Confirmed
+L006815,2025-02-12 04:20:50,UrbanNest,Pune,3BHK,Down Payment,False,8353712,413698,7940014,Confirmed
+L006847,2024-01-13 08:14:38,SkyHeights,Bengaluru,Villa,Flexi,False,9913171,476288,9436883,Confirmed
+L006872,2024-10-24 01:53:07,UrbanNest,Pune,3BHK,Construction Linked,True,11734607,218875,11515732,Confirmed
+L006875,2024-05-07 00:48:57,UrbanNest,Pune,3BHK,Down Payment,True,7077610,67344,7010266,Confirmed
+L006964,2025-02-07 02:16:51,UrbanNest,Pune,2BHK,Flexi,False,7077746,38343,7039403,Confirmed
+L006972,2025-06-17 16:28:41,LakeFront,Hyderabad,2BHK,Flexi,True,12710882,672404,12038478,Confirmed
+L006985,2025-05-28 14:17:30,PalmResidency,Pune,Villa,Down Payment,True,5780768,740853,5039915,Confirmed
+L007002,2024-12-18 14:17:51,GreenVista,Bengaluru,2BHK,Construction Linked,False,12936544,497798,12438746,Confirmed
+L007016,2024-11-28 06:23:46,SkyHeights,Bengaluru,3BHK,Flexi,False,9863556,260712,9602844,Confirmed
+L007040,2025-06-27 09:10:26,UrbanNest,Pune,3BHK,Construction Linked,True,10095037,588341,9506696,Confirmed
+L007054,2025-05-01 16:24:15,SkyHeights,Bengaluru,Villa,Construction Linked,True,5993557,776826,5216731,Confirmed
+L007131,2024-08-25 05:42:51,LakeFront,Hyderabad,2BHK,Flexi,True,11094237,493586,10600651,Confirmed
+L007147,2024-04-29 03:10:18,UrbanNest,Pune,Villa,Down Payment,True,10236913,24266,10212647,Confirmed
+L007163,2024-02-17 18:12:57,GreenVista,Bengaluru,3BHK,Flexi,True,6258806,875478,5383328,Confirmed
+L007173,2024-05-03 17:22:58,LakeFront,Hyderabad,2BHK,Down Payment,False,6606547,659476,5947071,Confirmed
+L007175,2024-07-09 04:35:49,PalmResidency,Pune,Villa,Construction Linked,False,11352436,484929,10867507,Confirmed
+L007194,2025-01-07 05:32:52,LakeFront,Hyderabad,3BHK,Construction Linked,True,12916280,77377,12838903,Confirmed
+L007209,2024-03-24 13:20:28,GreenVista,Bengaluru,2BHK,Construction Linked,False,8008666,529414,7479252,Confirmed
+L007215,2024-09-27 07:01:17,LakeFront,Hyderabad,3BHK,Construction Linked,False,5204417,713988,4490429,Confirmed
+L007240,2025-02-23 03:34:48,LakeFront,Hyderabad,3BHK,Construction Linked,False,11188980,856218,10332762,Confirmed
+L007256,2024-08-29 08:43:38,UrbanNest,Pune,3BHK,Down Payment,True,9230038,389359,8840679,Confirmed
+L007285,2024-04-02 14:51:44,LakeFront,Hyderabad,2BHK,Construction Linked,True,9069248,438383,8630865,Confirmed
+L007289,2024-07-13 23:21:18,PalmResidency,Pune,Villa,Construction Linked,True,7794324,854551,6939773,Confirmed
+L007300,2024-05-15 12:20:27,SkyHeights,Bengaluru,Villa,Down Payment,True,11620816,499267,11121549,Confirmed
+L007351,2025-03-27 10:55:38,UrbanNest,Pune,Villa,Down Payment,True,10804188,675878,10128310,Confirmed
+L007352,2025-04-03 14:19:40,LakeFront,Hyderabad,3BHK,Flexi,False,12805794,749073,12056721,Confirmed
+L007353,2024-06-23 16:44:06,UrbanNest,Pune,3BHK,Flexi,True,8492201,34507,8457694,Confirmed
+L007392,2024-03-17 18:47:57,PalmResidency,Pune,2BHK,Construction Linked,True,11426226,599655,10826571,Confirmed
+L007437,2025-03-22 19:25:48,UrbanNest,Pune,Villa,Down Payment,True,5582637,214217,5368420,Confirmed
+L007440,2024-02-21 05:10:09,SkyHeights,Bengaluru,Villa,Flexi,True,9505634,64537,9441097,Confirmed
+L007473,2025-01-07 10:42:19,GreenVista,Bengaluru,2BHK,Flexi,True,6161914,587290,5574624,Confirmed
+L007482,2024-07-20 11:55:48,LakeFront,Hyderabad,3BHK,Flexi,True,12766115,338224,12427891,Confirmed
+L007497,2024-08-07 07:16:30,GreenVista,Bengaluru,Villa,Construction Linked,False,5113674,808630,4305044,Confirmed
+L007508,2024-03-31 19:37:01,PalmResidency,Pune,3BHK,Down Payment,True,5830935,1242,5829693,Confirmed
+L007511,2024-09-21 00:31:34,GreenVista,Bengaluru,Villa,Construction Linked,True,9300366,248414,9051952,Confirmed
+L007519,2024-07-23 15:58:11,PalmResidency,Pune,Villa,Construction Linked,False,6863802,673528,6190274,Confirmed
+L007524,2024-02-16 23:23:17,GreenVista,Bengaluru,2BHK,Construction Linked,True,9251299,887386,8363913,Confirmed
+L007525,2024-11-10 07:01:01,GreenVista,Bengaluru,Villa,Construction Linked,True,5267632,382031,4885601,Confirmed
+L007546,2024-12-09 20:01:55,PalmResidency,Pune,3BHK,Down Payment,False,11281706,13950,11267756,Confirmed
+L007554,2025-06-16 22:50:21,PalmResidency,Pune,Villa,Construction Linked,False,10152116,427041,9725075,Confirmed
+L007563,2024-11-07 13:49:09,UrbanNest,Pune,Villa,Down Payment,True,11574476,285722,11288754,Confirmed
+L007595,2024-04-22 11:53:56,SkyHeights,Bengaluru,Villa,Flexi,False,12538627,255925,12282702,Confirmed
+L007605,2024-10-30 10:17:44,GreenVista,Bengaluru,3BHK,Down Payment,False,6732269,539520,6192749,Confirmed
+L007613,2024-07-20 06:35:32,UrbanNest,Pune,Villa,Flexi,True,8572593,292847,8279746,Confirmed
+L007618,2025-02-03 01:41:45,GreenVista,Bengaluru,Villa,Flexi,False,5758606,248690,5509916,Confirmed
+L007619,2024-09-20 19:19:47,SkyHeights,Bengaluru,Villa,Construction Linked,False,10393070,634749,9758321,Confirmed
+L007636,2024-04-02 16:41:31,LakeFront,Hyderabad,Villa,Down Payment,False,7168913,871563,6297350,Confirmed
+L007641,2025-03-25 19:11:17,LakeFront,Hyderabad,3BHK,Construction Linked,True,11322518,259883,11062635,Confirmed
+L007650,2025-02-03 00:46:09,LakeFront,Hyderabad,Villa,Construction Linked,False,10490692,87116,10403576,Confirmed
+L007653,2024-06-24 00:49:10,LakeFront,Hyderabad,2BHK,Construction Linked,False,11123086,890633,10232453,Confirmed
+L007654,2024-10-25 23:59:09,PalmResidency,Pune,3BHK,Flexi,True,8762396,713462,8048934,Confirmed
+L007658,2024-04-21 04:29:45,LakeFront,Hyderabad,Villa,Flexi,False,5822484,506313,5316171,Confirmed
+L007661,2024-08-10 03:39:11,PalmResidency,Pune,3BHK,Construction Linked,False,8636314,883891,7752423,Confirmed
+L007672,2025-04-04 02:19:03,SkyHeights,Bengaluru,Villa,Down Payment,True,7396959,803060,6593899,Confirmed
+L007701,2024-04-06 13:27:16,SkyHeights,Bengaluru,3BHK,Down Payment,False,12512621,655745,11856876,Confirmed
+L007707,2025-06-30 14:30:20,GreenVista,Bengaluru,3BHK,Construction Linked,True,11518246,246106,11272140,Confirmed
+L007711,2025-01-12 05:37:10,GreenVista,Bengaluru,3BHK,Construction Linked,True,9408161,501308,8906853,Confirmed
+L007723,2024-09-20 06:54:44,PalmResidency,Pune,3BHK,Flexi,False,12285259,707362,11577897,Confirmed
+L007728,2024-11-20 17:14:14,UrbanNest,Pune,3BHK,Construction Linked,True,7483740,695919,6787821,Confirmed
+L007737,2024-12-06 01:53:32,LakeFront,Hyderabad,2BHK,Construction Linked,True,8284054,65391,8218663,Confirmed
+L007771,2025-01-26 10:02:41,LakeFront,Hyderabad,Villa,Down Payment,False,10644164,686283,9957881,Confirmed
+L007798,2025-06-22 11:34:19,LakeFront,Hyderabad,2BHK,Down Payment,True,10151563,287841,9863722,Confirmed
+L007864,2025-06-20 18:17:34,SkyHeights,Bengaluru,Villa,Down Payment,True,10225597,783503,9442094,Confirmed
+L007880,2024-07-05 19:20:26,PalmResidency,Pune,Villa,Flexi,True,12964179,497410,12466769,Confirmed
+L007888,2025-02-27 00:57:37,LakeFront,Hyderabad,Villa,Flexi,False,8614037,68559,8545478,Confirmed
+L007904,2024-11-09 02:30:47,PalmResidency,Pune,Villa,Flexi,True,12889212,197002,12692210,Confirmed
+L007939,2024-12-07 09:59:54,LakeFront,Hyderabad,3BHK,Flexi,True,11639587,418787,11220800,Confirmed
+L007943,2024-10-28 00:48:24,UrbanNest,Pune,Villa,Down Payment,False,11950900,329546,11621354,Confirmed
+L007949,2024-04-11 13:19:58,PalmResidency,Pune,Villa,Down Payment,True,9750346,874265,8876081,Confirmed
+L007962,2024-12-31 13:15:15,SkyHeights,Bengaluru,Villa,Construction Linked,True,6899663,752267,6147396,Confirmed
+L007987,2025-01-30 18:41:52,GreenVista,Bengaluru,3BHK,Down Payment,True,8267113,51559,8215554,Confirmed
+L007999,2025-01-16 16:46:40,UrbanNest,Pune,2BHK,Down Payment,True,5369824,205226,5164598,Confirmed
+L008009,2024-08-23 15:21:37,SkyHeights,Bengaluru,Villa,Flexi,True,7810940,127014,7683926,Confirmed
+L008027,2024-08-19 17:28:44,UrbanNest,Pune,Villa,Flexi,False,9961408,638188,9323220,Confirmed
+L008055,2024-03-21 12:17:28,GreenVista,Bengaluru,3BHK,Down Payment,True,8993370,14621,8978749,Confirmed
+L008065,2024-08-16 04:12:14,LakeFront,Hyderabad,2BHK,Construction Linked,False,10477838,19018,10458820,Confirmed
+L008072,2024-06-20 05:17:43,LakeFront,Hyderabad,2BHK,Flexi,True,8878744,145151,8733593,Confirmed
+L008079,2025-05-12 09:38:32,PalmResidency,Pune,Villa,Flexi,True,11964272,803265,11161007,Confirmed
+L008093,2025-06-21 12:53:16,PalmResidency,Pune,3BHK,Flexi,True,6567908,153505,6414403,Confirmed
+L008098,2024-10-07 08:04:14,SkyHeights,Bengaluru,3BHK,Construction Linked,False,10771014,653128,10117886,Confirmed
+L008128,2024-11-11 05:27:19,PalmResidency,Pune,3BHK,Flexi,False,9432628,645000,8787628,Confirmed
+L008203,2024-06-09 09:26:48,GreenVista,Bengaluru,3BHK,Down Payment,True,8425877,615854,7810023,Confirmed
+L008209,2024-05-03 06:56:42,SkyHeights,Bengaluru,Villa,Construction Linked,False,12272210,798682,11473528,Confirmed
+L008237,2025-05-10 12:04:33,UrbanNest,Pune,2BHK,Down Payment,False,12805160,167744,12637416,Confirmed
+L008269,2025-06-06 20:41:18,LakeFront,Hyderabad,2BHK,Down Payment,True,5341852,835265,4506587,Confirmed
+L008280,2025-02-11 18:12:50,LakeFront,Hyderabad,3BHK,Flexi,True,11923729,792821,11130908,Confirmed
+L008298,2024-06-02 22:44:48,SkyHeights,Bengaluru,Villa,Construction Linked,False,8939110,682949,8256161,Confirmed
+L008322,2025-01-01 21:11:59,LakeFront,Hyderabad,3BHK,Construction Linked,True,6838963,663646,6175317,Confirmed
+L008324,2025-03-15 00:31:52,PalmResidency,Pune,3BHK,Down Payment,False,5383988,176047,5207941,Confirmed
+L008426,2025-04-30 08:18:30,LakeFront,Hyderabad,2BHK,Flexi,False,5260121,655889,4604232,Confirmed
+L008433,2025-03-25 12:39:35,LakeFront,Hyderabad,2BHK,Flexi,True,7485908,98877,7387031,Confirmed
+L008450,2025-04-04 03:26:21,SkyHeights,Bengaluru,Villa,Down Payment,True,6864793,761221,6103572,Confirmed
+L008465,2025-06-02 19:44:55,SkyHeights,Bengaluru,3BHK,Flexi,False,7083601,147377,6936224,Confirmed
+L008492,2024-09-10 21:08:51,UrbanNest,Pune,2BHK,Down Payment,False,7180367,774702,6405665,Confirmed
+L008504,2025-05-25 13:04:41,GreenVista,Bengaluru,2BHK,Construction Linked,True,7441602,716328,6725274,Confirmed
+L008523,2024-12-18 21:56:52,SkyHeights,Bengaluru,2BHK,Flexi,True,11452008,400005,11052003,Confirmed
+L008550,2024-03-19 21:29:58,UrbanNest,Pune,3BHK,Construction Linked,True,7752625,663249,7089376,Confirmed
+L008586,2024-10-03 16:26:25,LakeFront,Hyderabad,Villa,Construction Linked,True,5776041,582144,5193897,Confirmed
+L008598,2024-09-26 04:53:33,SkyHeights,Bengaluru,3BHK,Construction Linked,True,6721187,574829,6146358,Confirmed
+L008629,2025-07-17 12:04:11,UrbanNest,Pune,2BHK,Construction Linked,True,9667301,621825,9045476,Confirmed
+L008639,2024-04-09 14:08:00,PalmResidency,Pune,3BHK,Construction Linked,True,6712058,833502,5878556,Confirmed
+L008674,2025-01-15 12:38:02,UrbanNest,Pune,3BHK,Down Payment,True,9734384,177170,9557214,Confirmed
+L008678,2024-07-07 02:21:59,LakeFront,Hyderabad,2BHK,Down Payment,True,5170766,336234,4834532,Confirmed
+L008683,2024-11-23 12:36:29,LakeFront,Hyderabad,Villa,Construction Linked,True,12130323,606719,11523604,Confirmed
+L008705,2024-06-15 05:20:15,UrbanNest,Pune,2BHK,Construction Linked,False,12822157,295335,12526822,Confirmed
+L008715,2024-11-07 13:16:06,GreenVista,Bengaluru,3BHK,Flexi,True,10097423,231671,9865752,Confirmed
+L008721,2024-12-01 07:49:45,UrbanNest,Pune,Villa,Construction Linked,False,7660068,378413,7281655,Confirmed
+L008727,2025-05-26 20:52:20,SkyHeights,Bengaluru,3BHK,Flexi,True,8362652,535261,7827391,Confirmed
+L008739,2025-06-08 02:37:04,GreenVista,Bengaluru,2BHK,Flexi,False,9317910,646014,8671896,Confirmed
+L008742,2024-04-12 10:23:56,GreenVista,Bengaluru,Villa,Flexi,True,10694089,540489,10153600,Confirmed
+L008751,2024-10-18 00:35:16,SkyHeights,Bengaluru,3BHK,Construction Linked,False,7879022,356181,7522841,Confirmed
+L008764,2025-01-12 11:16:23,LakeFront,Hyderabad,Villa,Flexi,True,11508589,76437,11432152,Confirmed
+L008807,2024-12-01 23:12:28,SkyHeights,Bengaluru,2BHK,Construction Linked,False,5494622,210873,5283749,Confirmed
+L008862,2024-10-11 22:06:54,LakeFront,Hyderabad,Villa,Down Payment,True,12064935,353861,11711074,Confirmed
+L008871,2024-12-05 02:07:18,GreenVista,Bengaluru,Villa,Flexi,True,12847961,69628,12778333,Confirmed
+L008891,2024-02-15 21:10:40,UrbanNest,Pune,2BHK,Flexi,True,12915199,637956,12277243,Confirmed
+L008907,2024-06-10 12:23:03,GreenVista,Bengaluru,3BHK,Flexi,False,12798984,490934,12308050,Confirmed
+L008917,2024-03-21 08:21:18,LakeFront,Hyderabad,3BHK,Down Payment,True,10932208,851872,10080336,Confirmed
+L008939,2025-01-17 07:49:23,LakeFront,Hyderabad,3BHK,Flexi,True,5154982,177320,4977662,Confirmed
+L008983,2024-06-30 13:35:44,GreenVista,Bengaluru,3BHK,Construction Linked,True,8856388,420813,8435575,Confirmed
+L008996,2025-05-08 22:07:32,LakeFront,Hyderabad,Villa,Down Payment,True,10767243,751032,10016211,Confirmed
+L009007,2024-01-26 07:40:32,PalmResidency,Pune,Villa,Down Payment,True,6449206,517902,5931304,Confirmed
+L009011,2024-07-01 19:10:29,PalmResidency,Pune,Villa,Construction Linked,False,10353792,412367,9941425,Confirmed
+L009012,2025-07-21 21:39:31,UrbanNest,Pune,Villa,Down Payment,False,8932140,422831,8509309,Confirmed
+L009016,2024-11-21 08:45:07,LakeFront,Hyderabad,Villa,Flexi,False,7700576,636761,7063815,Confirmed
+L009026,2024-07-31 21:29:24,UrbanNest,Pune,3BHK,Flexi,True,11278912,798887,10480025,Confirmed
+L009029,2024-11-02 10:59:20,GreenVista,Bengaluru,Villa,Down Payment,False,10694668,528544,10166124,Confirmed
+L009113,2024-02-24 19:52:53,UrbanNest,Pune,2BHK,Down Payment,True,10159532,639704,9519828,Confirmed
+L009131,2024-04-25 00:49:47,SkyHeights,Bengaluru,2BHK,Down Payment,True,10379076,525207,9853869,Confirmed
+L009132,2024-05-13 20:45:55,UrbanNest,Pune,3BHK,Down Payment,True,6266252,426993,5839259,Confirmed
+L009141,2025-06-25 10:14:12,SkyHeights,Bengaluru,3BHK,Down Payment,True,7452215,771912,6680303,Confirmed
+L009257,2025-03-06 14:37:45,GreenVista,Bengaluru,Villa,Flexi,True,11906083,730994,11175089,Confirmed
+L009259,2024-06-24 01:38:33,SkyHeights,Bengaluru,2BHK,Down Payment,False,9455430,513714,8941716,Confirmed
+L009284,2024-12-30 02:29:30,UrbanNest,Pune,Villa,Flexi,True,8001118,111219,7889899,Confirmed
+L009287,2025-03-01 09:37:58,GreenVista,Bengaluru,3BHK,Construction Linked,True,8723192,800895,7922297,Confirmed
+L009335,2025-05-15 23:31:15,LakeFront,Hyderabad,Villa,Down Payment,False,12129392,595378,11534014,Confirmed
+L009368,2024-03-23 01:07:48,UrbanNest,Pune,Villa,Down Payment,True,9591149,362925,9228224,Confirmed
+L009394,2025-06-07 23:13:00,LakeFront,Hyderabad,Villa,Flexi,True,9696713,58460,9638253,Confirmed
+L009432,2024-02-01 14:10:04,PalmResidency,Pune,2BHK,Flexi,True,8506275,774419,7731856,Confirmed
+L009441,2025-03-11 17:46:07,GreenVista,Bengaluru,2BHK,Flexi,True,9794907,584912,9209995,Confirmed
+L009468,2024-11-07 18:56:41,SkyHeights,Bengaluru,2BHK,Construction Linked,True,6892324,135112,6757212,Confirmed
+L009469,2024-09-10 10:49:13,PalmResidency,Pune,3BHK,Construction Linked,False,5483641,100395,5383246,Confirmed
+L009497,2025-06-01 00:24:12,GreenVista,Bengaluru,3BHK,Construction Linked,True,8301830,793475,7508355,Confirmed
+L009522,2024-11-23 07:20:13,GreenVista,Bengaluru,Villa,Down Payment,False,9948045,781,9947264,Confirmed
+L009528,2024-06-21 21:47:35,GreenVista,Bengaluru,2BHK,Down Payment,False,6162355,4367,6157988,Confirmed
+L009550,2024-03-19 05:40:18,SkyHeights,Bengaluru,Villa,Down Payment,False,8814763,459392,8355371,Confirmed
+L009552,2025-06-21 11:41:56,PalmResidency,Pune,2BHK,Flexi,True,11712219,603918,11108301,Confirmed
+L009600,2024-11-06 07:20:34,LakeFront,Hyderabad,3BHK,Down Payment,False,8836052,260577,8575475,Confirmed
+L009620,2024-05-03 03:48:05,GreenVista,Bengaluru,2BHK,Down Payment,False,5056893,169897,4886996,Confirmed
+L009691,2024-03-14 13:39:21,GreenVista,Bengaluru,Villa,Flexi,False,12578417,473438,12104979,Confirmed
+L009700,2025-01-28 04:39:38,PalmResidency,Pune,Villa,Flexi,False,12372460,741738,11630722,Confirmed
+L009722,2024-03-13 17:30:15,SkyHeights,Bengaluru,Villa,Flexi,True,11914411,717196,11197215,Confirmed
+L009725,2024-04-10 21:12:56,UrbanNest,Pune,Villa,Construction Linked,False,7229629,231449,6998180,Confirmed
+L009728,2024-08-28 23:55:33,UrbanNest,Pune,2BHK,Construction Linked,True,9677399,39,9677360,Confirmed
+L009731,2025-03-03 14:40:58,GreenVista,Bengaluru,2BHK,Down Payment,True,9444377,360870,9083507,Confirmed
+L009743,2024-11-23 11:27:11,LakeFront,Hyderabad,3BHK,Flexi,False,11298398,93297,11205101,Confirmed
+L009746,2024-03-16 22:32:17,PalmResidency,Pune,Villa,Flexi,True,12617752,518493,12099259,Confirmed
+L009753,2024-10-01 08:34:25,PalmResidency,Pune,2BHK,Flexi,True,5965204,219959,5745245,Confirmed
+L009775,2024-08-10 07:55:34,UrbanNest,Pune,2BHK,Flexi,False,6897125,476149,6420976,Confirmed
+L009782,2024-12-29 11:48:24,GreenVista,Bengaluru,Villa,Flexi,False,9853585,859932,8993653,Confirmed
+L009813,2024-11-10 14:55:16,PalmResidency,Pune,Villa,Down Payment,False,5670881,675442,4995439,Confirmed
+L009814,2025-03-22 17:05:27,PalmResidency,Pune,Villa,Flexi,False,12324665,518983,11805682,Confirmed
+L009829,2025-04-07 12:46:54,PalmResidency,Pune,Villa,Down Payment,True,11894941,88239,11806702,Confirmed
+L009830,2024-04-07 09:36:21,PalmResidency,Pune,2BHK,Down Payment,False,5959212,777423,5181789,Confirmed
+L009832,2024-04-09 13:53:45,LakeFront,Hyderabad,Villa,Construction Linked,False,8842420,534829,8307591,Confirmed
+L009884,2024-02-05 09:56:47,GreenVista,Bengaluru,Villa,Flexi,False,12550463,750287,11800176,Confirmed
+L009896,2025-06-29 06:29:24,PalmResidency,Pune,Villa,Down Payment,False,6258411,38808,6219603,Confirmed
+L009943,2025-05-20 05:22:39,PalmResidency,Pune,Villa,Flexi,True,11681448,420011,11261437,Confirmed
+L009944,2024-09-24 23:03:07,SkyHeights,Bengaluru,3BHK,Down Payment,False,5220420,533757,4686663,Confirmed
+L009958,2025-04-27 10:32:08,UrbanNest,Pune,2BHK,Flexi,True,10825557,605802,10219755,Confirmed
+L009973,2025-04-27 21:45:15,PalmResidency,Pune,3BHK,Down Payment,True,7566915,15736,7551179,Confirmed
+L009985,2024-05-15 21:15:34,UrbanNest,Pune,2BHK,Construction Linked,False,11233051,238004,10995047,Confirmed
+L010009,2024-08-09 03:18:58,UrbanNest,Pune,3BHK,Down Payment,False,5190373,257898,4932475,Confirmed
+L010016,2025-03-25 20:36:30,PalmResidency,Pune,3BHK,Down Payment,False,6388127,277789,6110338,Confirmed
+L010076,2024-03-12 02:33:05,UrbanNest,Pune,Villa,Construction Linked,False,5724017,681483,5042534,Confirmed
+L010098,2025-05-03 21:52:40,LakeFront,Hyderabad,2BHK,Construction Linked,True,5874436,788814,5085622,Confirmed
+L010117,2024-04-28 10:09:11,LakeFront,Hyderabad,3BHK,Down Payment,True,7506553,656272,6850281,Confirmed
+L010132,2024-08-22 12:01:55,SkyHeights,Bengaluru,3BHK,Construction Linked,True,10911093,399875,10511218,Confirmed
+L010161,2025-06-15 09:01:35,SkyHeights,Bengaluru,Villa,Construction Linked,False,8675690,722460,7953230,Confirmed
+L010215,2025-02-09 05:38:10,LakeFront,Hyderabad,Villa,Flexi,True,9303806,441561,8862245,Confirmed
+L010217,2024-05-20 04:18:18,LakeFront,Hyderabad,2BHK,Down Payment,True,10110628,244191,9866437,Confirmed
+L010224,2025-01-18 03:43:03,PalmResidency,Pune,Villa,Down Payment,False,5597129,674670,4922459,Confirmed
+L010244,2024-05-08 04:45:03,SkyHeights,Bengaluru,3BHK,Construction Linked,False,9363009,66310,9296699,Confirmed
+L010257,2024-11-15 14:22:06,PalmResidency,Pune,Villa,Down Payment,False,9522054,17597,9504457,Confirmed
+L010264,2024-09-21 22:48:19,GreenVista,Bengaluru,2BHK,Construction Linked,True,7571352,180140,7391212,Confirmed
+L010272,2024-01-25 11:18:27,PalmResidency,Pune,Villa,Construction Linked,False,12280503,614590,11665913,Confirmed
+L010274,2025-04-24 14:55:52,UrbanNest,Pune,2BHK,Down Payment,True,7124298,268264,6856034,Confirmed
+L010289,2025-03-26 01:45:48,UrbanNest,Pune,Villa,Flexi,False,11222721,625750,10596971,Confirmed
+L010295,2025-01-23 09:08:17,GreenVista,Bengaluru,Villa,Down Payment,False,8332525,449126,7883399,Confirmed
+L010297,2025-05-21 09:45:36,UrbanNest,Pune,3BHK,Down Payment,True,8802916,438948,8363968,Confirmed
+L010306,2024-05-09 22:23:49,PalmResidency,Pune,Villa,Construction Linked,True,9472600,239078,9233522,Confirmed
+L010321,2025-05-06 13:05:45,GreenVista,Bengaluru,2BHK,Down Payment,True,6539077,596116,5942961,Confirmed
+L010332,2024-08-02 10:05:43,SkyHeights,Bengaluru,Villa,Construction Linked,True,6594825,62116,6532709,Confirmed
+L010343,2024-08-15 17:46:16,SkyHeights,Bengaluru,3BHK,Flexi,False,10609636,51393,10558243,Confirmed
+L010410,2024-08-14 08:30:22,PalmResidency,Pune,3BHK,Flexi,True,11718620,633453,11085167,Confirmed
+L010418,2024-11-01 01:40:15,GreenVista,Bengaluru,2BHK,Flexi,False,12413782,652710,11761072,Confirmed
+L010437,2025-01-07 13:45:03,LakeFront,Hyderabad,2BHK,Construction Linked,True,9939516,701594,9237922,Confirmed
+L010446,2025-04-22 20:56:56,LakeFront,Hyderabad,Villa,Construction Linked,True,5628360,796587,4831773,Confirmed
+L010465,2025-02-28 13:40:45,PalmResidency,Pune,Villa,Flexi,True,7888919,39687,7849232,Confirmed
+L010467,2024-08-19 00:28:25,GreenVista,Bengaluru,3BHK,Construction Linked,True,9141775,507878,8633897,Confirmed
+L010484,2024-05-21 04:03:06,UrbanNest,Pune,2BHK,Flexi,False,9889551,188180,9701371,Confirmed
+L010489,2024-04-24 07:20:22,GreenVista,Bengaluru,3BHK,Flexi,True,8117416,197147,7920269,Confirmed
+L010509,2025-04-27 13:35:31,PalmResidency,Pune,2BHK,Down Payment,False,9486312,671272,8815040,Confirmed
+L010510,2024-07-21 22:57:42,SkyHeights,Bengaluru,2BHK,Down Payment,False,7820329,131025,7689304,Confirmed
+L010524,2024-06-23 12:05:31,PalmResidency,Pune,2BHK,Down Payment,True,10472028,814457,9657571,Confirmed
+L010551,2024-10-09 14:31:32,GreenVista,Bengaluru,3BHK,Construction Linked,False,9131109,664709,8466400,Confirmed
+L010583,2024-11-04 06:26:08,PalmResidency,Pune,2BHK,Flexi,False,7167547,882691,6284856,Confirmed
+L010584,2025-03-21 11:33:36,LakeFront,Hyderabad,2BHK,Down Payment,False,11205300,297208,10908092,Confirmed
+L010590,2024-04-16 16:27:29,PalmResidency,Pune,2BHK,Construction Linked,False,7805077,719333,7085744,Confirmed
+L010592,2024-09-20 16:26:46,LakeFront,Hyderabad,Villa,Flexi,True,9715174,517109,9198065,Confirmed
+L010649,2025-06-19 05:46:50,PalmResidency,Pune,2BHK,Construction Linked,True,7442411,280991,7161420,Confirmed
+L010657,2025-02-23 01:23:58,LakeFront,Hyderabad,3BHK,Down Payment,True,12302943,267168,12035775,Confirmed
+L010661,2025-02-03 06:01:50,LakeFront,Hyderabad,3BHK,Down Payment,False,12932213,724812,12207401,Confirmed
+L010695,2024-12-10 01:59:55,UrbanNest,Pune,Villa,Construction Linked,False,5952954,738972,5213982,Confirmed
+L010699,2024-06-21 10:26:55,SkyHeights,Bengaluru,Villa,Construction Linked,True,6431822,579763,5852059,Confirmed
+L010710,2024-02-19 03:33:35,SkyHeights,Bengaluru,2BHK,Flexi,True,5346026,351536,4994490,Confirmed
+L010712,2024-11-15 06:49:38,SkyHeights,Bengaluru,3BHK,Flexi,True,10693613,592402,10101211,Confirmed
+L010721,2024-07-24 23:22:02,LakeFront,Hyderabad,Villa,Down Payment,True,6331435,554210,5777225,Confirmed
+L010727,2025-06-09 10:04:50,UrbanNest,Pune,2BHK,Down Payment,False,7497181,890439,6606742,Confirmed
+L010747,2025-02-27 23:50:33,LakeFront,Hyderabad,3BHK,Flexi,False,9819109,233798,9585311,Confirmed
+L010762,2024-10-21 07:18:00,LakeFront,Hyderabad,3BHK,Down Payment,False,7004503,259523,6744980,Confirmed
+L010784,2024-05-17 15:41:18,UrbanNest,Pune,3BHK,Flexi,True,10006018,729848,9276170,Confirmed
+L010811,2025-06-27 23:18:25,GreenVista,Bengaluru,2BHK,Construction Linked,False,8161400,520169,7641231,Confirmed
+L010812,2024-09-12 18:39:54,UrbanNest,Pune,2BHK,Down Payment,True,7190742,238464,6952278,Confirmed
+L010813,2024-04-15 19:34:44,PalmResidency,Pune,3BHK,Down Payment,True,5352306,581927,4770379,Confirmed
+L010824,2024-04-23 02:23:08,GreenVista,Bengaluru,Villa,Flexi,False,12517923,57169,12460754,Confirmed
+L010842,2024-11-23 17:26:06,GreenVista,Bengaluru,2BHK,Construction Linked,True,9307231,806509,8500722,Confirmed
+L010851,2024-12-07 14:29:07,PalmResidency,Pune,2BHK,Construction Linked,True,7969577,595090,7374487,Confirmed
+L010866,2024-05-07 17:20:02,SkyHeights,Bengaluru,3BHK,Flexi,True,11367087,851550,10515537,Confirmed
+L010879,2025-01-10 02:58:49,SkyHeights,Bengaluru,Villa,Construction Linked,False,12942666,592702,12349964,Confirmed
+L010883,2025-02-24 10:50:27,PalmResidency,Pune,Villa,Down Payment,True,5546760,545973,5000787,Confirmed
+L010913,2025-03-17 01:01:17,UrbanNest,Pune,2BHK,Down Payment,True,11547919,301392,11246527,Confirmed
+L010914,2024-11-23 03:10:53,GreenVista,Bengaluru,2BHK,Down Payment,True,8229664,281469,7948195,Confirmed
+L010940,2024-08-01 10:16:00,PalmResidency,Pune,Villa,Down Payment,True,7252479,549689,6702790,Confirmed
+L010974,2024-03-02 00:54:58,UrbanNest,Pune,Villa,Construction Linked,False,7677183,5785,7671398,Confirmed
+L010985,2025-07-20 13:55:51,UrbanNest,Pune,2BHK,Down Payment,True,9751574,368716,9382858,Confirmed
+L010997,2024-05-26 22:01:59,LakeFront,Hyderabad,2BHK,Construction Linked,False,7755129,298454,7456675,Confirmed
+L011022,2024-08-08 09:31:01,LakeFront,Hyderabad,Villa,Down Payment,True,11687389,863349,10824040,Confirmed
+L011024,2025-01-31 20:09:56,GreenVista,Bengaluru,2BHK,Construction Linked,False,7811147,779119,7032028,Confirmed
+L011094,2024-03-02 10:29:26,PalmResidency,Pune,3BHK,Down Payment,True,12575501,484968,12090533,Confirmed
+L011120,2024-04-29 14:38:48,PalmResidency,Pune,Villa,Construction Linked,False,6238565,582062,5656503,Confirmed
+L011136,2024-07-05 05:06:52,LakeFront,Hyderabad,2BHK,Down Payment,True,8519877,804519,7715358,Confirmed
+L011148,2024-04-20 02:57:57,GreenVista,Bengaluru,3BHK,Flexi,False,8908791,478365,8430426,Confirmed
+L011190,2025-07-10 02:54:19,PalmResidency,Pune,3BHK,Down Payment,True,7457832,27913,7429919,Confirmed
+L011201,2024-02-05 17:40:44,GreenVista,Bengaluru,Villa,Flexi,False,8857829,266178,8591651,Confirmed
+L011255,2024-05-01 00:01:47,UrbanNest,Pune,Villa,Down Payment,False,12205890,46570,12159320,Confirmed
+L011257,2025-06-14 21:35:10,SkyHeights,Bengaluru,3BHK,Down Payment,False,9929459,710925,9218534,Confirmed
+L011261,2024-11-18 00:19:05,PalmResidency,Pune,Villa,Down Payment,True,9358888,802211,8556677,Confirmed
+L011291,2024-07-19 03:11:28,GreenVista,Bengaluru,2BHK,Down Payment,False,6168743,379308,5789435,Confirmed
+L011299,2024-03-19 18:37:50,UrbanNest,Pune,3BHK,Down Payment,False,11955882,217913,11737969,Confirmed
+L011305,2024-12-19 02:29:31,UrbanNest,Pune,Villa,Flexi,False,7582629,431219,7151410,Confirmed
+L011323,2024-02-06 03:26:04,GreenVista,Bengaluru,Villa,Flexi,True,9297281,186245,9111036,Confirmed
+L011338,2025-02-25 19:15:32,UrbanNest,Pune,Villa,Flexi,True,9626782,610870,9015912,Confirmed
+L011341,2025-03-20 22:16:30,UrbanNest,Pune,3BHK,Flexi,True,10182520,855629,9326891,Confirmed
+L011370,2024-04-28 20:04:28,PalmResidency,Pune,2BHK,Down Payment,False,10217997,180091,10037906,Confirmed
+L011414,2025-01-07 06:17:21,PalmResidency,Pune,3BHK,Construction Linked,True,9134582,469151,8665431,Confirmed
+L011415,2025-01-22 08:54:47,GreenVista,Bengaluru,Villa,Down Payment,True,12093053,169280,11923773,Confirmed
+L011445,2024-10-12 06:09:39,PalmResidency,Pune,2BHK,Flexi,True,6229012,69254,6159758,Confirmed
+L011459,2024-11-11 05:05:00,GreenVista,Bengaluru,Villa,Construction Linked,False,9928060,287484,9640576,Confirmed
+L011472,2024-08-05 22:51:42,GreenVista,Bengaluru,3BHK,Construction Linked,False,8416409,156065,8260344,Confirmed
+L011492,2025-03-16 05:24:15,GreenVista,Bengaluru,2BHK,Construction Linked,True,5025245,864558,4160687,Confirmed
+L011499,2025-04-03 08:18:01,LakeFront,Hyderabad,2BHK,Construction Linked,True,11151561,460763,10690798,Confirmed
+L011501,2025-07-08 17:58:13,SkyHeights,Bengaluru,3BHK,Down Payment,False,12642335,873809,11768526,Confirmed
+L011524,2024-08-01 20:37:32,GreenVista,Bengaluru,2BHK,Construction Linked,True,12701970,291433,12410537,Confirmed
+L011531,2024-03-01 05:41:16,UrbanNest,Pune,Villa,Construction Linked,False,9038729,558949,8479780,Confirmed
+L011560,2025-03-15 07:06:50,LakeFront,Hyderabad,Villa,Construction Linked,False,8613931,641090,7972841,Confirmed
+L011596,2025-01-16 01:21:49,PalmResidency,Pune,2BHK,Flexi,True,9395831,756269,8639562,Confirmed
+L011630,2025-05-31 08:28:35,UrbanNest,Pune,3BHK,Construction Linked,True,9499531,113790,9385741,Confirmed
+L011635,2025-05-15 06:11:36,PalmResidency,Pune,3BHK,Down Payment,True,5846988,495790,5351198,Confirmed
+L011648,2024-08-10 11:18:14,GreenVista,Bengaluru,2BHK,Flexi,True,9054508,701962,8352546,Confirmed
+L011711,2024-05-23 16:05:55,UrbanNest,Pune,Villa,Construction Linked,True,6065278,621515,5443763,Confirmed
+L011721,2025-05-08 23:13:09,UrbanNest,Pune,Villa,Flexi,True,10283383,821597,9461786,Confirmed
+L011754,2024-07-06 08:18:15,LakeFront,Hyderabad,Villa,Flexi,False,11207597,409826,10797771,Confirmed
+L011774,2024-04-20 22:50:27,SkyHeights,Bengaluru,3BHK,Construction Linked,True,7554030,78140,7475890,Confirmed
+L011778,2024-08-09 13:41:34,GreenVista,Bengaluru,Villa,Construction Linked,False,6656529,441692,6214837,Confirmed
+L011797,2025-06-06 10:02:58,LakeFront,Hyderabad,3BHK,Down Payment,True,7013517,580356,6433161,Confirmed
+L011824,2024-02-25 16:16:06,LakeFront,Hyderabad,3BHK,Construction Linked,True,11851130,111694,11739436,Confirmed
+L011891,2024-03-13 02:54:32,GreenVista,Bengaluru,2BHK,Flexi,False,12573278,538871,12034407,Confirmed
+L011898,2024-08-03 02:35:14,GreenVista,Bengaluru,2BHK,Construction Linked,False,7812332,850917,6961415,Confirmed
+L011939,2024-10-19 15:42:38,GreenVista,Bengaluru,Villa,Construction Linked,True,8892732,475274,8417458,Confirmed
+L011948,2024-10-31 11:18:14,UrbanNest,Pune,Villa,Down Payment,True,5836369,572661,5263708,Confirmed
+L011951,2024-08-09 17:46:59,SkyHeights,Bengaluru,3BHK,Flexi,False,12244178,433275,11810903,Confirmed
+L011956,2025-06-24 18:15:53,UrbanNest,Pune,Villa,Flexi,True,9505911,718204,8787707,Confirmed
+L011977,2025-03-28 10:38:55,GreenVista,Bengaluru,3BHK,Down Payment,False,10256561,726877,9529684,Confirmed
+L012007,2024-10-17 02:37:20,GreenVista,Bengaluru,2BHK,Construction Linked,False,7753974,419946,7334028,Confirmed
+L012009,2024-11-30 06:44:54,GreenVista,Bengaluru,3BHK,Down Payment,True,10000357,63558,9936799,Confirmed
+L012010,2025-04-24 10:00:24,LakeFront,Hyderabad,Villa,Down Payment,False,10402837,271122,10131715,Confirmed
+L012019,2025-03-11 21:10:02,SkyHeights,Bengaluru,3BHK,Down Payment,False,8553250,490767,8062483,Confirmed
+L012020,2024-12-31 23:47:30,UrbanNest,Pune,2BHK,Down Payment,True,11427533,358040,11069493,Confirmed
+L012023,2024-03-01 17:59:06,LakeFront,Hyderabad,3BHK,Flexi,True,12459158,197321,12261837,Confirmed
+L012029,2025-01-25 04:41:10,SkyHeights,Bengaluru,Villa,Flexi,True,9856244,632073,9224171,Confirmed
+L012034,2024-05-19 12:06:24,GreenVista,Bengaluru,3BHK,Flexi,True,8987917,294741,8693176,Confirmed
+L012036,2024-03-22 07:48:57,UrbanNest,Pune,2BHK,Construction Linked,True,5468434,724032,4744402,Confirmed
+L012063,2025-05-01 07:29:23,PalmResidency,Pune,Villa,Flexi,True,8362086,750366,7611720,Confirmed
+L012076,2024-09-04 12:04:05,PalmResidency,Pune,2BHK,Construction Linked,True,11785643,800819,10984824,Confirmed
+L012098,2025-05-02 18:36:53,PalmResidency,Pune,Villa,Down Payment,False,12731395,593466,12137929,Confirmed
+L012123,2024-09-17 23:56:59,SkyHeights,Bengaluru,2BHK,Construction Linked,True,5531329,761564,4769765,Confirmed
+L012125,2024-04-20 13:56:38,SkyHeights,Bengaluru,2BHK,Construction Linked,True,6578377,609237,5969140,Confirmed
+L012132,2024-09-25 07:20:09,GreenVista,Bengaluru,Villa,Flexi,False,10961321,557766,10403555,Confirmed
+L012169,2025-05-04 01:45:10,PalmResidency,Pune,2BHK,Down Payment,True,5788246,302746,5485500,Confirmed
+L012179,2024-11-04 03:20:18,GreenVista,Bengaluru,2BHK,Construction Linked,True,9884377,237608,9646769,Confirmed
+L012193,2024-02-22 18:47:16,PalmResidency,Pune,2BHK,Flexi,False,8065329,88647,7976682,Confirmed
+L012198,2024-07-30 16:03:20,SkyHeights,Bengaluru,Villa,Construction Linked,True,7857221,147549,7709672,Confirmed
+L012212,2025-06-10 08:45:10,SkyHeights,Bengaluru,3BHK,Construction Linked,False,12998316,81589,12916727,Confirmed
+L012231,2024-03-22 04:49:55,SkyHeights,Bengaluru,Villa,Construction Linked,True,5842076,739795,5102281,Confirmed
+L012272,2024-08-09 00:07:53,SkyHeights,Bengaluru,Villa,Down Payment,False,8331680,120482,8211198,Confirmed
+L012279,2024-06-09 19:51:20,SkyHeights,Bengaluru,Villa,Flexi,True,7787983,291655,7496328,Confirmed
+L012310,2024-02-26 12:42:10,LakeFront,Hyderabad,Villa,Down Payment,True,8667484,201721,8465763,Confirmed
+L012346,2024-12-16 12:49:49,UrbanNest,Pune,Villa,Construction Linked,True,12018775,764516,11254259,Confirmed
+L012352,2025-05-31 06:47:55,LakeFront,Hyderabad,Villa,Down Payment,True,9983514,411021,9572493,Confirmed
+L012363,2024-08-03 08:17:47,UrbanNest,Pune,2BHK,Construction Linked,True,7926645,591536,7335109,Confirmed
+L012393,2025-07-11 03:58:25,PalmResidency,Pune,2BHK,Flexi,True,5191255,335538,4855717,Confirmed
+L012413,2024-09-19 05:51:14,LakeFront,Hyderabad,Villa,Down Payment,False,6334844,720100,5614744,Confirmed
+L012433,2025-04-08 04:36:45,LakeFront,Hyderabad,2BHK,Construction Linked,True,11203814,102825,11100989,Confirmed
+L012462,2025-07-04 22:24:01,UrbanNest,Pune,Villa,Construction Linked,True,10255907,627424,9628483,Confirmed
+L012468,2024-10-02 16:03:50,SkyHeights,Bengaluru,Villa,Down Payment,True,5911853,517594,5394259,Confirmed
+L012492,2024-05-09 11:16:04,SkyHeights,Bengaluru,2BHK,Down Payment,True,11911424,486824,11424600,Confirmed
+L012515,2025-03-12 06:02:29,UrbanNest,Pune,3BHK,Down Payment,False,11505496,741127,10764369,Confirmed
+L012520,2024-02-02 13:59:01,GreenVista,Bengaluru,2BHK,Flexi,False,12442057,665993,11776064,Confirmed
+L012572,2025-02-04 06:06:47,GreenVista,Bengaluru,Villa,Construction Linked,False,10072893,170909,9901984,Confirmed
+L012575,2025-07-15 07:14:47,UrbanNest,Pune,Villa,Down Payment,True,9690779,607552,9083227,Confirmed
+L012582,2025-04-04 14:35:48,SkyHeights,Bengaluru,3BHK,Flexi,True,12720563,119332,12601231,Confirmed
+L012662,2024-03-11 10:10:15,SkyHeights,Bengaluru,Villa,Flexi,True,11521109,193425,11327684,Confirmed
+L012673,2025-02-02 07:19:53,PalmResidency,Pune,3BHK,Flexi,False,8803618,362839,8440779,Confirmed
+L012719,2024-11-26 05:32:58,LakeFront,Hyderabad,2BHK,Flexi,False,7027011,548780,6478231,Confirmed
+L012731,2025-06-01 15:17:24,SkyHeights,Bengaluru,3BHK,Construction Linked,True,8485051,712862,7772189,Confirmed
+L012759,2024-02-05 05:49:00,GreenVista,Bengaluru,2BHK,Flexi,False,6944524,365116,6579408,Confirmed
+L012769,2025-04-10 06:47:18,UrbanNest,Pune,2BHK,Construction Linked,True,11606004,205356,11400648,Confirmed
+L012792,2025-06-15 18:53:10,GreenVista,Bengaluru,2BHK,Down Payment,True,10682248,891503,9790745,Confirmed
+L012801,2024-08-31 23:48:28,GreenVista,Bengaluru,Villa,Flexi,True,12308764,706109,11602655,Confirmed
+L012811,2025-05-20 02:43:17,PalmResidency,Pune,3BHK,Construction Linked,True,6830486,362983,6467503,Confirmed
+L012872,2024-06-29 13:42:13,PalmResidency,Pune,3BHK,Construction Linked,False,9030984,432869,8598115,Confirmed
+L012898,2025-06-12 09:40:27,SkyHeights,Bengaluru,Villa,Flexi,False,12262015,652252,11609763,Confirmed
+L012900,2025-04-28 16:47:21,SkyHeights,Bengaluru,3BHK,Flexi,True,7258692,718738,6539954,Confirmed
+L012913,2025-02-11 01:48:42,PalmResidency,Pune,2BHK,Construction Linked,False,11730556,855453,10875103,Confirmed
+L012936,2025-02-05 03:43:29,PalmResidency,Pune,2BHK,Down Payment,False,11953611,769821,11183790,Confirmed
+L012953,2024-06-04 16:58:30,PalmResidency,Pune,Villa,Construction Linked,True,7329968,766055,6563913,Confirmed
+L012966,2025-03-05 20:40:45,UrbanNest,Pune,Villa,Flexi,True,9088417,429605,8658812,Confirmed
+L012981,2024-11-21 22:21:24,PalmResidency,Pune,3BHK,Down Payment,True,6028260,112970,5915290,Confirmed
+L013003,2024-05-15 00:31:53,SkyHeights,Bengaluru,Villa,Down Payment,True,7723281,237877,7485404,Confirmed
+L013011,2025-04-22 04:13:45,GreenVista,Bengaluru,Villa,Construction Linked,True,12380667,748277,11632390,Confirmed
+L013021,2024-08-29 08:34:33,PalmResidency,Pune,2BHK,Flexi,False,6212029,665640,5546389,Confirmed
+L013058,2025-05-20 01:00:23,PalmResidency,Pune,3BHK,Down Payment,True,12503540,821759,11681781,Confirmed
+L013091,2024-11-10 18:57:45,SkyHeights,Bengaluru,2BHK,Flexi,True,6058188,455761,5602427,Confirmed
+L013121,2024-10-13 15:54:29,PalmResidency,Pune,2BHK,Flexi,False,11545762,799394,10746368,Confirmed
+L013123,2024-08-29 10:02:29,GreenVista,Bengaluru,2BHK,Flexi,False,6313427,603536,5709891,Confirmed
+L013128,2025-01-05 12:47:43,LakeFront,Hyderabad,3BHK,Flexi,False,10220724,489473,9731251,Confirmed
+L013163,2025-05-02 16:56:01,SkyHeights,Bengaluru,3BHK,Down Payment,True,6214553,136768,6077785,Confirmed
+L013179,2024-07-13 08:11:03,UrbanNest,Pune,2BHK,Down Payment,True,8739318,200752,8538566,Confirmed
+L013208,2024-07-06 09:05:15,SkyHeights,Bengaluru,2BHK,Flexi,True,10532349,735478,9796871,Confirmed
+L013215,2024-11-23 04:00:52,LakeFront,Hyderabad,3BHK,Down Payment,True,10060354,364343,9696011,Confirmed
+L013220,2024-10-22 04:21:03,UrbanNest,Pune,3BHK,Flexi,True,11948251,878245,11070006,Confirmed
+L013238,2024-11-17 10:14:24,LakeFront,Hyderabad,Villa,Flexi,True,12906477,240223,12666254,Confirmed
+L013239,2024-05-22 02:40:00,SkyHeights,Bengaluru,Villa,Down Payment,False,11015339,341077,10674262,Confirmed
+L013256,2024-08-11 05:36:38,PalmResidency,Pune,Villa,Construction Linked,False,10486132,169104,10317028,Confirmed
+L013267,2024-07-16 17:26:55,GreenVista,Bengaluru,Villa,Flexi,True,9188061,638635,8549426,Confirmed
+L013291,2025-06-24 11:13:33,UrbanNest,Pune,3BHK,Construction Linked,True,12335359,126937,12208422,Confirmed
+L013303,2024-11-13 11:10:26,PalmResidency,Pune,2BHK,Construction Linked,True,10231804,215820,10015984,Confirmed
+L013316,2025-06-03 03:36:59,LakeFront,Hyderabad,3BHK,Construction Linked,True,8468359,373543,8094816,Confirmed
+L013338,2025-06-13 01:17:26,GreenVista,Bengaluru,3BHK,Flexi,False,5356118,311525,5044593,Confirmed
+L013357,2024-10-16 05:17:12,GreenVista,Bengaluru,Villa,Construction Linked,True,8868964,248414,8620550,Confirmed
+L013376,2024-07-06 09:04:21,SkyHeights,Bengaluru,2BHK,Flexi,True,7891853,364720,7527133,Confirmed
+L013380,2025-03-22 03:18:20,UrbanNest,Pune,Villa,Down Payment,False,5233055,611386,4621669,Confirmed
+L013384,2025-06-26 01:39:39,PalmResidency,Pune,3BHK,Construction Linked,True,5830086,136851,5693235,Confirmed
+L013387,2024-11-27 23:14:37,SkyHeights,Bengaluru,2BHK,Construction Linked,False,6496733,153214,6343519,Confirmed
+L013394,2025-03-08 06:03:18,PalmResidency,Pune,2BHK,Flexi,False,9343852,323063,9020789,Confirmed
+L013442,2024-02-01 14:30:08,GreenVista,Bengaluru,2BHK,Construction Linked,False,12876103,831690,12044413,Confirmed
+L013479,2024-05-30 06:49:26,LakeFront,Hyderabad,2BHK,Construction Linked,True,8644087,1141,8642946,Confirmed
+L013481,2025-02-26 15:54:45,GreenVista,Bengaluru,Villa,Construction Linked,True,5350197,134837,5215360,Confirmed
+L013501,2024-03-04 04:46:08,LakeFront,Hyderabad,3BHK,Flexi,False,9243371,186383,9056988,Confirmed
+L013521,2025-07-14 11:26:38,SkyHeights,Bengaluru,2BHK,Flexi,True,5596799,509939,5086860,Confirmed
+L013531,2025-05-24 06:29:42,UrbanNest,Pune,Villa,Flexi,True,10474409,269017,10205392,Confirmed
+L013539,2025-06-11 17:56:32,PalmResidency,Pune,3BHK,Flexi,True,7901597,376951,7524646,Confirmed
+L013562,2024-11-21 21:24:11,PalmResidency,Pune,Villa,Construction Linked,True,10380218,806948,9573270,Confirmed
+L013632,2025-04-25 06:38:41,UrbanNest,Pune,Villa,Down Payment,False,9842414,92146,9750268,Confirmed
+L013644,2024-04-26 01:18:08,LakeFront,Hyderabad,2BHK,Construction Linked,True,6911182,258259,6652923,Confirmed
+L013648,2024-03-28 21:42:38,SkyHeights,Bengaluru,3BHK,Construction Linked,False,7843682,598953,7244729,Confirmed
+L013655,2024-05-29 05:37:32,GreenVista,Bengaluru,Villa,Construction Linked,True,12623314,877759,11745555,Confirmed
+L013676,2024-07-11 20:47:09,UrbanNest,Pune,3BHK,Flexi,False,9359919,277879,9082040,Confirmed
+L013680,2025-05-18 22:39:25,LakeFront,Hyderabad,3BHK,Construction Linked,True,5050791,401880,4648911,Confirmed
+L013732,2024-06-18 08:29:00,LakeFront,Hyderabad,3BHK,Down Payment,False,12086114,626730,11459384,Confirmed
+L013736,2024-03-08 14:01:07,SkyHeights,Bengaluru,2BHK,Down Payment,True,9927637,466675,9460962,Confirmed
+L013780,2024-02-01 10:01:39,PalmResidency,Pune,3BHK,Construction Linked,True,9930935,367146,9563789,Confirmed
+L013786,2025-07-02 18:47:31,PalmResidency,Pune,Villa,Down Payment,True,11822371,517497,11304874,Confirmed
+L013793,2025-07-19 01:47:22,SkyHeights,Bengaluru,Villa,Down Payment,True,12916590,242461,12674129,Confirmed
+L013818,2025-06-08 01:12:05,SkyHeights,Bengaluru,3BHK,Construction Linked,True,6370745,529091,5841654,Confirmed
+L013830,2024-05-21 16:43:44,PalmResidency,Pune,Villa,Construction Linked,True,12076440,351104,11725336,Confirmed
+L013843,2025-01-20 07:10:16,SkyHeights,Bengaluru,Villa,Down Payment,True,5997840,284269,5713571,Confirmed
+L013848,2025-05-24 14:07:44,GreenVista,Bengaluru,2BHK,Down Payment,True,12596441,671088,11925353,Confirmed
+L013852,2025-06-24 18:21:38,LakeFront,Hyderabad,2BHK,Down Payment,True,7748157,112151,7636006,Confirmed
+L013869,2025-04-24 03:18:33,LakeFront,Hyderabad,3BHK,Flexi,True,9595400,560123,9035277,Confirmed
+L013970,2024-03-19 12:46:14,UrbanNest,Pune,2BHK,Flexi,False,11687300,380175,11307125,Confirmed
+L013983,2024-04-10 17:07:44,PalmResidency,Pune,Villa,Down Payment,False,9524508,191240,9333268,Confirmed
+L014000,2024-04-04 09:49:19,GreenVista,Bengaluru,Villa,Down Payment,True,12842206,520868,12321338,Confirmed
+L014015,2024-11-20 15:38:11,LakeFront,Hyderabad,3BHK,Flexi,True,9227242,814166,8413076,Confirmed
+L014030,2025-01-19 23:38:58,UrbanNest,Pune,3BHK,Flexi,False,12983572,35966,12947606,Confirmed
+L014050,2025-02-04 15:38:24,PalmResidency,Pune,3BHK,Construction Linked,True,6831701,9754,6821947,Confirmed
+L014071,2025-06-13 16:19:30,GreenVista,Bengaluru,3BHK,Flexi,False,12230251,34583,12195668,Confirmed
+L014074,2024-07-19 19:08:08,SkyHeights,Bengaluru,3BHK,Flexi,False,7824024,301182,7522842,Confirmed
+L014096,2024-01-25 23:54:09,PalmResidency,Pune,Villa,Down Payment,False,11419832,148807,11271025,Confirmed
+L014104,2024-03-22 04:52:02,GreenVista,Bengaluru,2BHK,Down Payment,False,5564941,1147,5563794,Confirmed
+L014106,2024-02-23 08:19:02,PalmResidency,Pune,2BHK,Construction Linked,True,9389252,290954,9098298,Confirmed
+L014135,2025-01-12 05:16:01,UrbanNest,Pune,2BHK,Flexi,True,7257545,89618,7167927,Confirmed
+L014173,2024-11-16 09:09:00,LakeFront,Hyderabad,3BHK,Construction Linked,True,6122591,491830,5630761,Confirmed
+L014174,2024-05-14 09:19:12,PalmResidency,Pune,Villa,Construction Linked,True,5187362,577729,4609633,Confirmed
+L014179,2024-11-30 14:05:25,GreenVista,Bengaluru,3BHK,Flexi,True,8613824,790770,7823054,Confirmed
+L014195,2024-03-15 08:00:37,GreenVista,Bengaluru,Villa,Down Payment,True,9916172,479941,9436231,Confirmed
+L014201,2024-12-15 10:29:53,UrbanNest,Pune,Villa,Flexi,True,9611092,123067,9488025,Confirmed
+L014262,2024-08-17 22:46:01,SkyHeights,Bengaluru,2BHK,Construction Linked,False,6193177,170361,6022816,Confirmed
+L014287,2024-04-02 10:54:16,UrbanNest,Pune,3BHK,Construction Linked,False,7455852,359820,7096032,Confirmed
+L014326,2025-07-16 14:18:46,LakeFront,Hyderabad,3BHK,Construction Linked,True,8202236,478339,7723897,Confirmed
+L014339,2024-09-12 23:46:59,SkyHeights,Bengaluru,Villa,Down Payment,False,10232436,442747,9789689,Confirmed
+L014365,2024-05-26 01:46:57,PalmResidency,Pune,Villa,Flexi,True,9804641,392218,9412423,Confirmed
+L014380,2024-04-04 11:01:03,LakeFront,Hyderabad,2BHK,Construction Linked,False,12929021,42529,12886492,Confirmed
+L014391,2024-11-07 16:57:47,UrbanNest,Pune,2BHK,Construction Linked,True,5878939,343009,5535930,Confirmed
+L014411,2025-07-12 02:58:42,PalmResidency,Pune,3BHK,Down Payment,False,6535324,179495,6355829,Confirmed
+L014448,2025-05-31 14:32:17,UrbanNest,Pune,Villa,Down Payment,True,10184319,643464,9540855,Confirmed
+L014474,2025-01-26 04:49:30,SkyHeights,Bengaluru,2BHK,Construction Linked,True,6840834,479608,6361226,Confirmed
+L014482,2025-03-27 19:23:40,LakeFront,Hyderabad,2BHK,Down Payment,True,5149664,602352,4547312,Confirmed
+L014500,2024-10-22 21:22:46,UrbanNest,Pune,Villa,Construction Linked,True,10784571,99774,10684797,Confirmed
+L014501,2025-07-23 08:32:45,UrbanNest,Pune,3BHK,Down Payment,False,6233283,733508,5499775,Confirmed
+L014533,2024-09-25 11:04:53,LakeFront,Hyderabad,Villa,Flexi,True,8560262,102480,8457782,Confirmed
+L014554,2025-02-02 11:57:08,GreenVista,Bengaluru,Villa,Construction Linked,True,8319259,61062,8258197,Confirmed
+L014560,2024-08-23 10:30:13,UrbanNest,Pune,3BHK,Construction Linked,True,7877082,243063,7634019,Confirmed
+L014579,2024-08-09 13:12:01,PalmResidency,Pune,3BHK,Flexi,True,7184668,353755,6830913,Confirmed
+L014582,2024-03-22 07:42:39,SkyHeights,Bengaluru,Villa,Construction Linked,True,10079096,844350,9234746,Confirmed
+L014606,2024-06-04 19:58:52,SkyHeights,Bengaluru,2BHK,Down Payment,True,12870869,417232,12453637,Confirmed
+L014612,2024-12-15 07:19:11,UrbanNest,Pune,Villa,Flexi,True,12980363,536409,12443954,Confirmed
+L014640,2025-05-04 19:23:09,PalmResidency,Pune,2BHK,Flexi,True,10535828,852442,9683386,Confirmed
+L014653,2024-11-10 01:38:46,SkyHeights,Bengaluru,2BHK,Down Payment,False,6362427,136160,6226267,Confirmed
+L014666,2024-09-11 02:24:30,PalmResidency,Pune,Villa,Construction Linked,True,9201188,528249,8672939,Confirmed
+L014705,2024-09-13 12:42:26,SkyHeights,Bengaluru,Villa,Flexi,True,9681737,530311,9151426,Confirmed
+L014709,2024-12-19 01:25:03,PalmResidency,Pune,Villa,Construction Linked,True,9737904,845719,8892185,Confirmed
+L014714,2025-07-15 18:41:10,LakeFront,Hyderabad,3BHK,Construction Linked,False,7145913,404248,6741665,Confirmed
+L014730,2024-07-10 16:07:05,UrbanNest,Pune,3BHK,Flexi,False,11831650,740361,11091289,Confirmed
+L014731,2024-12-10 14:26:02,UrbanNest,Pune,3BHK,Flexi,False,9754907,110789,9644118,Confirmed
+L014783,2025-03-15 08:46:17,GreenVista,Bengaluru,3BHK,Construction Linked,True,9680695,586844,9093851,Confirmed
+L014789,2024-05-21 00:36:39,UrbanNest,Pune,2BHK,Flexi,False,5957451,524908,5432543,Confirmed
+L014831,2024-08-20 19:08:45,GreenVista,Bengaluru,3BHK,Construction Linked,True,7229978,136556,7093422,Confirmed
+L014838,2025-04-25 05:40:48,PalmResidency,Pune,2BHK,Construction Linked,True,10346997,152271,10194726,Confirmed
+L014887,2025-01-14 23:25:52,LakeFront,Hyderabad,2BHK,Construction Linked,True,7795127,526386,7268741,Confirmed
+L014908,2025-04-24 22:35:30,SkyHeights,Bengaluru,Villa,Construction Linked,True,12527419,891192,11636227,Confirmed
+L014957,2024-04-15 16:42:46,GreenVista,Bengaluru,3BHK,Flexi,True,8396743,805095,7591648,Confirmed
+L014995,2025-06-07 02:10:50,UrbanNest,Pune,Villa,Down Payment,True,11863096,473954,11389142,Confirmed
+L014996,2024-05-03 02:30:45,LakeFront,Hyderabad,Villa,Construction Linked,False,9251469,552244,8699225,Confirmed
+L015000,2025-02-21 07:51:00,GreenVista,Bengaluru,2BHK,Construction Linked,False,6975954,191644,6784310,Confirmed
