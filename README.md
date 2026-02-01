@@ -1,4 +1,5 @@
-Event-Level CRM Sales Funnel & Conversion Analysis for a Real-Estate Developer
+## Event-Level CRM Sales Funnel & Conversion Analysis for a Real-Estate Developer
+
 📌 Project Overview
 
 This project is a diagnostic analysis of a real-estate sales CRM system using event-level data.
